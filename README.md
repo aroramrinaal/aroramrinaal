@@ -29,7 +29,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mrinaal.softr.app](https://mrinaal.softr.app)
 
-- 📝 I regularly write articles on [https://mrinaal.softr.app/journey](https://mrinaal.softr.app/journey)
+- 📝 I regularly write articles on [https://mrinaal.softr.app/projects](https://mrinaal.softr.app/projects)
 
 - 💬 Ask me about **python,c++**
 
