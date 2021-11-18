@@ -27,9 +27,9 @@
 
 - 👯 I’m looking to collaborate on **Android**
 
-- 👨‍💻 All of my projects are available at [https://mrinaal.softr.app](https://mrinaal.softr.app)
+- 👨‍💻 All of my projects are available at [https://mrinaal.softr.app/projects](https://mrinaal.softr.app/projects)
 
-- 📝 I regularly write articles on [https://mrinaal.softr.app/projects](https://mrinaal.softr.app/projects)
+- 📝 I regularly write articles on [https://mrinaal.softr.app/](https://mrinaal.softr.app/)
 
 - 💬 Ask me about **python,c++**
 
