@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👯 I’m looking to collaborate on **Application Development**
+- 👯 I’m looking to collaborate on ** IOS Application Development**
 
 - 👨‍💻 All of my projects are available at [https://mrinaal.softr.app/projects](https://mrinaal.softr.app/projects)
 
