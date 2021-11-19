@@ -53,3 +53,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aroramrinaal)](https://github.com/aroramrinaal/github-readme-stats)
 
+
+
+
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aroramrinaal&theme=dark&show_icons=true)
+
+
