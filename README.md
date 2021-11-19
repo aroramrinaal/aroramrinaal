@@ -31,7 +31,7 @@
 
 - 📝 I regularly write articles on [https://mrinaal.softr.app/](https://mrinaal.softr.app/)
 
-- 💬 Ask me about **python,c++**
+- 💬 Ask me about **C++,flutter**
 
 - 📫 How to reach me **aroramrinaal@gmail.com**
 
