@@ -50,9 +50,7 @@
 
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aroramrinaal)](https://github.com/aroramrinaal/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aroramrinaal&theme=monokai)
 
 
 
@@ -60,6 +58,6 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aroramrinaal&theme=gruvbox_light&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aroramrinaal&theme=monokai&show_icons=true)
 
 
