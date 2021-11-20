@@ -23,7 +23,7 @@
 
 <p align="left"> <a href="https://twitter.com/aroramrinaal25" target="blank"><img src="https://img.shields.io/twitter/follow/aroramrinaal25?logo=twitter&style=for-the-badge" alt="aroramrinaal25" /></a> </p>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Python**
 
 
 
@@ -31,7 +31,7 @@
 
 - 📝 I regularly write articles on [https://mrinaal.softr.app/](https://mrinaal.softr.app/)
 
-- 💬 Ask me about **C++,Python**
+- 💬 Ask me about **Python,Blockchain**
 
 - 📫 How to reach me **aroramrinaal@gmail.com**
 
