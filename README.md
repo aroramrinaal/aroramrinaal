@@ -54,25 +54,3 @@
 
 
 
-
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aroramrinaal&theme=monokai)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aroramrinaal&theme=monokai&show_icons=true)
-
-
