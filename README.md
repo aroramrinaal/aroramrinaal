@@ -31,7 +31,7 @@
 
 - 📝 I regularly write articles on [https://mrinaal.softr.app/](https://mrinaal.softr.app/)
 
-- 💬 Ask me about **Python,Blockchain**
+- 💬 Ask me about **Python, Web3.0**
 
 - 📫 How to reach me **aroramrinaal@gmail.com**
 
