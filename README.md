@@ -23,7 +23,7 @@
 
 <p align="left"> <a href="https://twitter.com/aroramrinaal25" target="blank"><img src="https://img.shields.io/twitter/follow/aroramrinaal25?logo=twitter&style=for-the-badge" alt="aroramrinaal25" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Python**
+- 🌱 I’m currently learning **Java, DevOps**
 
 
 
