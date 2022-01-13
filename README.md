@@ -54,7 +54,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aroramrinaal&hide=javascript,html,C++,Dart)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aroramrinaal&hide=javascript,html,Dart,CSS,C++)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
