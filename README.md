@@ -54,7 +54,6 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aroramrinaal&hide=javascript,html,Dart,CSS,C++)
 
 
 
