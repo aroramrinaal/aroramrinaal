@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/mrinaal-arora-69a6ab21a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mri.ar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
   
-<a href="https://www.codechef.com/users/mrinaalarora25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mrinaalarora25" height="30" width="40" /></a>
+
 
 </p>
 
