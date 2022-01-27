@@ -23,13 +23,13 @@
 
 <p align="left"> <a href="https://twitter.com/aroramrinaal25" target="blank"><img src="https://img.shields.io/twitter/follow/aroramrinaal25?logo=twitter&style=for-the-badge" alt="aroramrinaal25" /></a> </p>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Golang , Web Development**
 
 
 
-- 👨‍💻 All of my projects are available at [https://mrinaal.softr.app/projects](https://mrinaal.softr.app/projects)
 
-- 📝 I regularly write articles on [https://mrinaal.softr.app/](https://mrinaal.softr.app/)
+
+
 
 
 
