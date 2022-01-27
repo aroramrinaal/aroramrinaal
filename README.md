@@ -56,7 +56,7 @@
 
 
 
-[![Mrinaal's GitHub stats](https://github-readme-stats.vercel.app/api?username=aroramrinaal)](https://github.com/aroramrinaal)
+
 
 
 
