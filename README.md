@@ -1,5 +1,4 @@
-![Mrinaal Arora](https://user-images.githubusercontent.com/90490253/152416950-c7e54a02-6044-4a42-9250-f35e6ada8a97.png)
-
+![Mrinaal Arora](https://user-images.githubusercontent.com/90490253/152417082-7bc57f20-682c-4cce-8c3f-3ff0c693910a.gif)
 
 
 
