@@ -16,14 +16,6 @@
 </p>
 
 - 🌱 I’m currently learning **Golang ,Web Development**
-
-
-
-
-
-
-
-
 - 📫 How to reach me **aroramrinaal@gmail.com**
 
 
