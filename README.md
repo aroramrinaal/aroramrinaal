@@ -15,7 +15,7 @@
 
 </p>
 
-- 🌱 I’m currently learning **Golang ,Web Development**
+- 🌱 I’m currently learning **Golang ,Javascript**
 - 📫 How to reach me **aroramrinaal@gmail.com**
 
 
