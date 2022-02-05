@@ -15,14 +15,6 @@
 
 </p>
 
-
-
-
-
-
-
-
-
 - 🌱 I’m currently learning **Golang ,Web Development**
 
 
