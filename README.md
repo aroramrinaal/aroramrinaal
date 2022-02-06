@@ -13,9 +13,9 @@
 
 </p>
 
-<<<<<<< HEAD
-- 🌱 I’m currently learning **Golang ,Javascript**
-=======
+
+
+
 
 
 
@@ -32,7 +32,7 @@
 
 
 
->>>>>>> 9edb3060fc7ded20598f5bfc7c80cf5005bf286a
+
 - 📫 How to reach me **aroramrinaal@gmail.com**
 
 
