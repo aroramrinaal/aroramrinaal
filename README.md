@@ -24,7 +24,7 @@
 
 
 
--  <img src="https://miro.medium.com/max/1000/1*vHUiXvBE0p0fLRwFHZuAYw.gif" width=30 height=30>I’m currently learning Go 🚀<br>
+- I’m currently learning Javascript , Python 🚀<br>
 
 
 
