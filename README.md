@@ -24,7 +24,7 @@
 
 
 
-- I’m currently learning Javascript🚀<br>
+- I’m currently learning Javascript🚀,Python<br>
 
 
 
