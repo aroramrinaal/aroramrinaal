@@ -4,6 +4,6 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/aroramrinaal) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=aroramrinaal.visitor-badge)](https://github.com/aroramrinaal) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/aroramrinaal)
 
-**Say Hi on Twitter([@MrinaalArora](https://twitter.com/aroramrinaal25))!** :heart: 💬
+**Say Hi on Twitter([@aroramrinaal](https://twitter.com/aroramrinaal25))!** :heart: 💬
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/aroramrinaal25?style=social)](https://twitter.com/aroramrinaal25)
