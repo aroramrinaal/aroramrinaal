@@ -1,1 +1,9 @@
-![136881424-89ef97ea-51eb-4910-9d86-9ccd2e77fcf0](https://user-images.githubusercontent.com/90490253/172382222-c36e2ff0-db5b-4a12-a8d9-2134533bc840.gif)
+### Hi there 👋
+**Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/aroramrinaal?tab=repositories) represent my journey :running_man: Outside of [GitHub](https://github.com/aroramrinaal/), catch me for a quick best of 3 in the **badminton** :badminton: court! You can **find me on [LinkedIn](https://www.linkedin.com/in/mrinaal-arora/)**.
+
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/aroramrinaal) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=aroramrinaal.visitor-badge)](https://github.com/aroramrinaal) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/aroramrinaal)
+
+**Say Hi on Twitter([@MrinaalArora](https://twitter.com/aroramrinaal25))!** :heart: 💬
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/aroramrinaal25?style=social)](https://twitter.com/aroramrinaal25)
