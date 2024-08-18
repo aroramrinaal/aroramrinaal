@@ -4,7 +4,7 @@ Host: Arizona State University
 Kernel: Computer Science
 
 Languages.Programming: Python, JavaScript, TypeScript, Java, C++, R, MATLAB  
-Languages.Web: HTML, CSS,
+Languages.Web: HTML, CSS
 
 Frameworks: Next.js, React.js, Prisma, TailwindCSS, Node.js  
 Databases: PostgreSQL  
