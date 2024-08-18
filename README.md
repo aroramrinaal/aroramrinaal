@@ -20,8 +20,6 @@ Achievements:
 - Sustainability Track Winner at YHacks (Yale University)
 - Participated in LA Hacks (UCLA)
 
-Contact:
-_______________
 Email: marora16@asu.edu
 Twitter/X : aroramri
 GitHub: aroramrinaal
