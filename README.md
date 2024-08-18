@@ -1,14 +1,14 @@
 ```
-OS: macOS
-Host: Arizona State University
+OS: macOS  
+Host: Arizona State University  
 Kernel: Computer Science
 
-Languages.Programming: Python, JavaScript, TypeScript, Java, C++, R, MATLAB
-Languages.Web: HTML, CSS, JSON, XML
+Languages.Programming: Python, JavaScript, TypeScript, Java, C++, R, MATLAB  
+Languages.Web: HTML, CSS, JSON, XML  
 Languages.Real: English, Hindi, Punjabi
 
-Frameworks: Next.js, React.js, Prisma, TailwindCSS, Node.js
-Databases: PostgreSQL
+Frameworks: Next.js, React.js, Prisma, TailwindCSS, Node.js  
+Databases: PostgreSQL  
 Tools: Git, GitHub, Docker (CI/CD with GitHub Actions)
 
 Experience:
@@ -22,7 +22,11 @@ Achievements:
 
 Contact:
 _______________
-Email: marora16@asu.edu
-LinkedIn: MrinaalArora
+Email: marora16@asu.edu  
+LinkedIn: MrinaalArora  
 GitHub: aroramrinaal
 ```
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9344ffe1-a7e6-4e90-bcee-e5f3ab84c1d8" alt="Krishna Arjun wallpaper" width="1018" style="border-radius: 15px;"/>
+</div>
+
