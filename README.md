@@ -22,8 +22,8 @@ Achievements:
 
 Contact:
 _______________
-Email: marora16@asu.edu  
-LinkedIn: MrinaalArora  
+Email: marora16@asu.edu
+Twitter/X : aroramri
 GitHub: aroramrinaal
 ```
 <div align="center">
