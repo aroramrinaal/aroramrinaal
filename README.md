@@ -1,7 +1,7 @@
 ```
-OS: macOS                       Uptime: Junior year
-Host: Arizona State University  Kernel: Computer Science
-Expected Graduation: Dec 2025
+OS: macOS
+Host: Arizona State University
+Kernel: Computer Science
 
 Languages.Programming: Python, JavaScript, TypeScript, Java, C++, R, MATLAB
 Languages.Web: HTML, CSS, JSON, XML
