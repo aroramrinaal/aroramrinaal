@@ -1,7 +1,5 @@
 ```
 OS: macOS  
-Host: Arizona State University  
-Kernel: Computer Science
 
 Languages.Programming: Python, JavaScript, TypeScript, Java, C++, R, MATLAB  
 Languages.Web: HTML, CSS
