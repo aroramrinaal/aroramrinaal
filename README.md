@@ -1,5 +1,8 @@
-### yo, i'm mrinaal.
+### hey, i'm mrinaal
 
-i study ds at asu.
+software engineer @ [ohara](https://ohara.ai) · [x.com/tryoharaAI](https://x.com/tryoharaAI)  
+working on their AI codegen app builder
 
-<a href="https://x.com/aroramri">twitter</a> | <a href="https://aroramrinaal.com">website</a>
+studying data science at ASU (graduating soon)
+
+[website](https://aroramrinaal.com) · [twitter](https://x.com/aroramri)
