@@ -28,9 +28,9 @@
 </picture>
 
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=won+6%2B+hackathons+at+Harvard%2C+Yale%2C+ASU" />
-   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=000000&repeat=false&width=802&height=25&lines=won+6%2B+hackathons+at+Harvard%2C+Yale%2C+ASU" />
-   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=won+6%2B+hackathons+at+Harvard%2C+Yale%2C+ASU" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=won+6+hackathons+including+those+at+Harvard%2C+Yale%2C+ASU" />
+   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=000000&repeat=false&width=802&height=25&lines=won+6+hackathons+including+those+at+Harvard%2C+Yale%2C+ASU" />
+   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=won+6+hackathons+including+those+at+Harvard%2C+Yale%2C+ASU" />
 </picture>
 
 <picture>
