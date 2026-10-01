@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://aroramrinaal.com">me</a> ·
   <a href="https://aroramrinaal.com/ai">blog</a> ·
-  <a href="https://x.com/aroramri">tweets</a> ·
+  <a href="https://x.com/arora_mrinaal">tweets</a> ·
   <a href="https://www.linkedin.com/in/aroramri">linkedin</a>
 </p>
 
