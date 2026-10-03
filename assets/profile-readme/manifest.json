@@ -1,0 +1,29 @@
+[
+  {
+    "name": "ohara",
+    "file": "ohara-f5c8c916d312.gif",
+    "poster": "ohara-f5c8c916d312.png",
+    "width": 16,
+    "height": 16,
+    "duration": 3600,
+    "bytes": 6243
+  },
+  {
+    "name": "ok-health",
+    "file": "ok-health-134493e20bbb.gif",
+    "poster": "ok-health-134493e20bbb.png",
+    "width": 16,
+    "height": 16,
+    "duration": 4800,
+    "bytes": 35109
+  },
+  {
+    "name": "asu-arizona",
+    "file": "asu-arizona-438d91f1a801.gif",
+    "poster": "asu-arizona-438d91f1a801.png",
+    "width": 62,
+    "height": 16,
+    "duration": 6400,
+    "bytes": 95935
+  }
+]
