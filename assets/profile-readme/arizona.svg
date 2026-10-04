@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="32" viewBox="0 0 64 32">
+      <defs>
+        <linearGradient id="day" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="24">
+  <stop offset="0" stop-color="#2b8a8f"/><stop offset="0.42" stop-color="#8ccfc2"/><stop offset="0.66" stop-color="#f5efd3"/><stop offset="0.84" stop-color="#f9cd5a"/><stop offset="1" stop-color="#f39b3d"/>
+</linearGradient><linearGradient id="dusk" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="24">
+  <stop offset="0" stop-color="#24204f"/><stop offset="0.4" stop-color="#7d2c63"/><stop offset="0.72" stop-color="#df4f3e"/><stop offset="1" stop-color="#f8a443"/>
+</linearGradient>
+        <radialGradient id="glow"><stop stop-color="#fff6dc" stop-opacity=".75"/>
+          <stop offset="1" stop-color="#fff6dc" stop-opacity="0"/></radialGradient>
+        <clipPath id="plate"><rect width="64" height="32" rx="3.4"/></clipPath>
+      </defs>
+      <g clip-path="url(#plate)">
+        <rect width="64" height="32" fill="url(#day)"/>
+        <rect width="64" height="32" fill="url(#dusk)" opacity="0"/>
+        <path d="M33.00 20.50L-6.95 22.50L-5.78 10.69Z" fill="#bf0a30"
+      opacity="0" transform="translate(33 20.5) rotate(0) scale(1) translate(-33 -20.5)"/><path d="M33.00 20.50L-5.84 10.93L-2.31 1.70Z" fill="#fed700"
+      opacity="0" transform="translate(33 20.5) rotate(-13.846153846153847) scale(1) translate(-33 -20.5)"/><path d="M33.00 20.50L-2.42 1.91L3.22 -6.20Z" fill="#bf0a30"
+      opacity="0" transform="translate(33 20.5) rotate(-27.692307692307693) scale(1) translate(-33 -20.5)"/><path d="M33.00 20.50L3.06 -6.02L10.48 -12.56Z" fill="#fed700"
+      opacity="0" transform="translate(33 20.5) rotate(-41.53846153846154) scale(1) translate(-33 -20.5)"/><path d="M33.00 20.50L10.28 -12.42L19.04 -16.99Z" fill="#bf0a30"
+      opacity="0" transform="translate(33 20.5) rotate(-55.38461538461539) scale(1) translate(-33 -20.5)"/><path d="M33.00 20.50L18.82 -16.90L28.42 -19.24Z" fill="#fed700"
+      opacity="0" transform="translate(33 20.5) rotate(-69.23076923076923) scale(1) translate(-33 -20.5)"/><path d="M33.00 20.50L28.18 -19.21L38.06 -19.18Z" fill="#bf0a30"
+      opacity="0" transform="translate(33 20.5) rotate(-83.07692307692308) scale(1) translate(-33 -20.5)"/><path d="M33.00 20.50L37.82 -19.21L47.41 -16.81Z" fill="#fed700"
+      opacity="0" transform="translate(33 20.5) rotate(-96.92307692307692) scale(1) translate(-33 -20.5)"/><path d="M33.00 20.50L47.18 -16.90L55.92 -12.28Z" fill="#bf0a30"
+      opacity="0" transform="translate(33 20.5) rotate(-110.76923076923077) scale(1) translate(-33 -20.5)"/><path d="M33.00 20.50L55.72 -12.42L63.10 -5.84Z" fill="#fed700"
+      opacity="0" transform="translate(33 20.5) rotate(-124.61538461538461) scale(1) translate(-33 -20.5)"/><path d="M33.00 20.50L62.94 -6.02L68.53 2.12Z" fill="#bf0a30"
+      opacity="0" transform="translate(33 20.5) rotate(-138.46153846153845) scale(1) translate(-33 -20.5)"/><path d="M33.00 20.50L68.42 1.91L71.89 11.16Z" fill="#fed700"
+      opacity="0" transform="translate(33 20.5) rotate(-152.30769230769232) scale(1) translate(-33 -20.5)"/><path d="M33.00 20.50L71.84 10.93L72.95 22.50Z" fill="#bf0a30"
+      opacity="0" transform="translate(33 20.5) rotate(-166.15384615384616) scale(1) translate(-33 -20.5)"/>
+        <g transform="translate(0 -9.5)">
+          <circle cx="33" cy="20.5" r="8.64" fill="url(#glow)" opacity="1"/>
+          <circle cx="33" cy="20.5" r="3.6" fill="#fffaf0"/>
+        </g>
+        
+  <path d="M0 21.6L3.5 20.2L7 20.8L10 18.6L12 16.4L13.5 17.3L15 15L16.3 16.1L17.6 14.3L19 15.9L20.4 15.3L22.4 17.8L25.5 18.9L29 20.4L33 21.2L36.5 20.2L40 18.6L43 17.8L46 18.5L49 18.1L52.5 19.5L56 19.1L60 20.7L64 20.1V32H0Z" fill="#6c3b87"/>
+  <path d="M0 25.4L5 24.3L10 24.9L16 24.2L22 25.3L28 24.8L34 25.6L40 24.7L46 25.2L52 24.3L58 24.9L64 24.4V32H0Z" fill="#3e1d55"/>
+  <g fill="none" stroke="#2f1544" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M6.2 28V12.6" stroke-width="1.9"/>
+    <path d="M6.2 20.6H5.1Q4.2 20.6 4.2 19.7V16.8M6.2 18.6H7.3Q8.2 18.6 8.2 17.7V15.3" stroke-width="1.35"/>
+    <path d="M44.6 26V21.8M44.6 24.2H45.4Q45.9 24.2 45.9 23.7V22.6M57 25.8V21.2M57 23.8H56.2Q55.7 23.8 55.7 23.3V22M60.8 25.6V23.4" stroke-width=".95"/>
+  </g><path d="M33.00 15.10L31.77 18.80L27.86 18.83L31.00 21.15L29.83 24.87L33.00 22.60L36.17 24.87L35.00 21.15L38.14 18.83L34.23 18.80Z" fill="#ce5c17" opacity="0"
+      transform="translate(33 20.5) rotate(-144) scale(0) translate(-33 -20.5)"/>
+      </g>
+      <rect x=".35" y=".35" width="63.3" height="31.3"
+        rx="3.1" fill="none" stroke="white" stroke-opacity=".22" stroke-width=".7"/></svg>
