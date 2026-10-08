@@ -43,5 +43,23 @@
     "height": 16,
     "duration": 8000,
     "bytes": 99406
+  },
+  {
+    "name": "research-underline-light",
+    "file": "research-underline-light-52d2de9e0e67.gif",
+    "poster": "research-underline-light-52d2de9e0e67.png",
+    "width": 329,
+    "height": 20,
+    "duration": 7040,
+    "bytes": 59580
+  },
+  {
+    "name": "research-underline-dark",
+    "file": "research-underline-dark-8ad7ee2b7064.gif",
+    "poster": "research-underline-dark-8ad7ee2b7064.png",
+    "width": 329,
+    "height": 20,
+    "duration": 7040,
+    "bytes": 59502
   }
 ]
