@@ -61,5 +61,14 @@
     "height": 20,
     "duration": 7040,
     "bytes": 59502
+  },
+  {
+    "name": "codex-claude-crew",
+    "file": "codex-claude-crew-a2aaa69297bc.png",
+    "poster": "codex-claude-crew-a2aaa69297bc.png",
+    "width": 24,
+    "height": 24,
+    "duration": 0,
+    "bytes": 8883
   }
 ]
