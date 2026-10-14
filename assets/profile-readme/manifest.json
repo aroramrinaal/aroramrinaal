@@ -70,5 +70,32 @@
     "height": 24,
     "duration": 0,
     "bytes": 8883
+  },
+  {
+    "name": "rumik-moth",
+    "file": "rumik-moth-0d1a18c1e3ee.png",
+    "poster": "rumik-moth-0d1a18c1e3ee.png",
+    "width": 24,
+    "height": 24,
+    "duration": 0,
+    "bytes": 7613
+  },
+  {
+    "name": "emergent-misalignment",
+    "file": "emergent-misalignment-090decc2191c.png",
+    "poster": "emergent-misalignment-090decc2191c.png",
+    "width": 24,
+    "height": 24,
+    "duration": 0,
+    "bytes": 9089
+  },
+  {
+    "name": "cross-lingual-emergent-misalignment",
+    "file": "cross-lingual-emergent-misalignment-4c6e08798354.png",
+    "poster": "cross-lingual-emergent-misalignment-4c6e08798354.png",
+    "width": 24,
+    "height": 24,
+    "duration": 0,
+    "bytes": 11234
   }
 ]

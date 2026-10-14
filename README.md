@@ -15,6 +15,12 @@ I graduated Summa Cum Laude with a B.S. in Data Science from <img src="https://r
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/research-underline-dark-8ad7ee2b7064.gif" /><img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/research-underline-light-52d2de9e0e67.gif" width="329" align="absmiddle" alt="I'm open to research roles and collaborations" /></picture> at academic or industry AI labs. If you're working on related problems, [email me](mailto:aroramrinaal@gmail.com).
 
-**Projects**
+**Open Source Projects**
 
 <img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/codex-claude-crew-a2aaa69297bc.png" width="24" align="absmiddle" alt="" /> [Codex Claude Crew](https://github.com/aroramrinaal/codex-claude-crew) — Codex delegates to Claude Code, then verifies.
+
+<img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/rumik-moth-0d1a18c1e3ee.png" width="24" align="absmiddle" alt="" /> [Rumik TTS Fast Inference](https://github.com/aroramrinaal/rumik-tts-fast-inference-strat) — Optimizing Rumik TTS on one H100.
+
+<img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/emergent-misalignment-090decc2191c.png" width="24" align="absmiddle" alt="" /> [Emergent Misalignment](https://github.com/aroramrinaal/emergent-misalignment-research) — Narrow fine-tuning, broad behavioral shifts.
+
+<img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/cross-lingual-emergent-misalignment-4c6e08798354.png" width="24" align="absmiddle" alt="" /> [Cross-Lingual Emergent Misalignment](https://github.com/aroramrinaal/emergent-misalignment-research/tree/mri/experiment/script-gate-crosslingual) — English fine-tuning, misalignment across languages.
