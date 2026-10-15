@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 36 40">
+<!-- World Fan Arena football, hand-written. A truncated icosahedron cut at 0.37
+     (a little deeper than 1/3, so the pentagons read at 18px), seen pentagon-on
+     and projected onto a sphere of radius 15 at (18, 23.2). The pattern has
+     five-fold symmetry: one rim panel and its two seams, turned in 72 degree steps.
+     Without CSS animation (or with reduced motion) the ball simply rests. -->
+<defs>
+<radialGradient id="leather" cx=".38" cy=".32" r=".74"><stop offset="0" stop-color="#fff"/><stop offset=".55" stop-color="#f1f3f5"/><stop offset="1" stop-color="#c3c9d1"/></radialGradient>
+<radialGradient id="shade" cx=".36" cy=".3" r=".78"><stop offset=".5" stop-color="#0b0e14" stop-opacity="0"/><stop offset=".86" stop-color="#0b0e14" stop-opacity=".2"/><stop offset="1" stop-color="#0b0e14" stop-opacity=".42"/></radialGradient>
+<radialGradient id="gloss"><stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset=".45" stop-color="#fff" stop-opacity=".5"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+<clipPath id="round"><circle cx="18" cy="23.2" r="15"/></clipPath>
+<!-- The top rim pentagon: its inner edges curve in, its outer edge follows the silhouette. -->
+<path id="rim" d="M18 13.39Q20.89 11.93 23.48 11.61Q22.67 9.48 21.39 8.73Q18 7.96 14.61 8.73Q13.33 9.48 12.52 11.61Q15.11 11.93 18 13.39Z"/>
+<!-- Centre pentagon to rim pentagon, then rim pentagon to the next one clockwise. -->
+<path id="seam" d="M18 17.44V13.39M23.48 11.61Q25.6 12.75 27.33 14.41"/>
+</defs>
+<g class="ball">
+<circle cx="18" cy="23.2" r="15" fill="url(#leather)"/>
+<g clip-path="url(#round)"><g class="panels">
+<g fill="none" stroke="#8b929c" stroke-width=".9" stroke-linecap="round">
+<use href="#seam"/>
+<use href="#seam" transform="rotate(72 18 23.2)"/>
+<use href="#seam" transform="rotate(144 18 23.2)"/>
+<use href="#seam" transform="rotate(216 18 23.2)"/>
+<use href="#seam" transform="rotate(288 18 23.2)"/>
+</g>
+<g fill="#1c2027" stroke="#1c2027" stroke-width=".7" stroke-linejoin="round">
+<path d="M18 17.44L23.48 21.42L21.39 27.86L14.61 27.86L12.52 21.42Z"/>
+<use href="#rim"/>
+<use href="#rim" transform="rotate(72 18 23.2)"/>
+<use href="#rim" transform="rotate(144 18 23.2)"/>
+<use href="#rim" transform="rotate(216 18 23.2)"/>
+<use href="#rim" transform="rotate(288 18 23.2)"/>
+</g>
+</g></g>
+<circle cx="18" cy="23.2" r="15" fill="url(#shade)"/>
+<path d="M29.14 31A13.6 13.6 0 0 1 22.2 36.13" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width=".9" stroke-linecap="round"/>
+<ellipse cx="12.2" cy="15.9" rx="4.6" ry="2.5" transform="rotate(-40 12.2 15.9)" fill="url(#gloss)"/>
+<circle cx="18" cy="23.2" r="15" fill="none" stroke="#1f2328" stroke-width="1.3"/>
+</g>
+</svg>
