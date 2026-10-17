@@ -178,5 +178,113 @@
     "height": 22,
     "duration": 0,
     "bytes": 2141
+  },
+  {
+    "name": "navigation-link-me",
+    "file": "navigation-link-me-596229cda23d.gif",
+    "poster": "navigation-link-me-596229cda23d.png",
+    "width": 23,
+    "height": 20,
+    "duration": 7040,
+    "bytes": 3936
+  },
+  {
+    "name": "navigation-link-blog",
+    "file": "navigation-link-blog-55971ac46da0.gif",
+    "poster": "navigation-link-blog-55971ac46da0.png",
+    "width": 32,
+    "height": 20,
+    "duration": 7040,
+    "bytes": 8073
+  },
+  {
+    "name": "navigation-link-news",
+    "file": "navigation-link-news-09dd2b764ddd.gif",
+    "poster": "navigation-link-news-09dd2b764ddd.png",
+    "width": 38,
+    "height": 20,
+    "duration": 7040,
+    "bytes": 8634
+  },
+  {
+    "name": "social-x",
+    "file": "social-x-797c56b1ea31.png",
+    "poster": "social-x-797c56b1ea31.png",
+    "width": 24,
+    "height": 24,
+    "duration": 0,
+    "bytes": 7046
+  },
+  {
+    "name": "social-linkedin",
+    "file": "social-linkedin-cd77720a7b72.png",
+    "poster": "social-linkedin-cd77720a7b72.png",
+    "width": 24,
+    "height": 24,
+    "duration": 0,
+    "bytes": 9175
+  },
+  {
+    "name": "social-huggingface",
+    "file": "social-huggingface-4a71ad25ffa9.png",
+    "poster": "social-huggingface-4a71ad25ffa9.png",
+    "width": 24,
+    "height": 24,
+    "duration": 0,
+    "bytes": 9876
+  },
+  {
+    "name": "social-link-tweets-light",
+    "file": "social-link-tweets-light-faf5a468a195.gif",
+    "poster": "social-link-tweets-light-faf5a468a195.png",
+    "width": 52,
+    "height": 22,
+    "duration": 7680,
+    "bytes": 5738
+  },
+  {
+    "name": "social-link-tweets-dark",
+    "file": "social-link-tweets-dark-f0b903b49a02.gif",
+    "poster": "social-link-tweets-dark-f0b903b49a02.png",
+    "width": 52,
+    "height": 22,
+    "duration": 7680,
+    "bytes": 6023
+  },
+  {
+    "name": "social-link-linkedin-light",
+    "file": "social-link-linkedin-light-c66f9cff9932.gif",
+    "poster": "social-link-linkedin-light-c66f9cff9932.png",
+    "width": 59,
+    "height": 22,
+    "duration": 7680,
+    "bytes": 10949
+  },
+  {
+    "name": "social-link-linkedin-dark",
+    "file": "social-link-linkedin-dark-0d06ac357bf5.gif",
+    "poster": "social-link-linkedin-dark-0d06ac357bf5.png",
+    "width": 59,
+    "height": 22,
+    "duration": 7680,
+    "bytes": 11041
+  },
+  {
+    "name": "social-link-huggingface-light",
+    "file": "social-link-huggingface-light-b00e73824ece.gif",
+    "poster": "social-link-huggingface-light-b00e73824ece.png",
+    "width": 92,
+    "height": 22,
+    "duration": 7680,
+    "bytes": 14031
+  },
+  {
+    "name": "social-link-huggingface-dark",
+    "file": "social-link-huggingface-dark-995af67db856.gif",
+    "poster": "social-link-huggingface-dark-995af67db856.png",
+    "width": 92,
+    "height": 22,
+    "duration": 7680,
+    "bytes": 13391
   }
 ]

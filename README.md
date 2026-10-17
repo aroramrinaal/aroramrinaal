@@ -1,8 +1,10 @@
 <p align="center">
-  <a href="https://aroramrinaal.com">me</a> ·
-  <a href="https://aroramrinaal.com/ai">blog</a> ·
-  <a href="https://x.com/arora_mrinaal">tweets</a> ·
-  <a href="https://www.linkedin.com/in/aroramri">linkedin</a>
+  <a href="https://aroramrinaal.com"><img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/navigation-link-me-596229cda23d.gif" width="23" align="absmiddle" alt="me" /></a> ·
+  <a href="https://aroramrinaal.com/ai"><img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/navigation-link-blog-55971ac46da0.gif" width="32" align="absmiddle" alt="blog" /></a> ·
+  <a href="https://aroramrinaal.com/news"><img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/navigation-link-news-09dd2b764ddd.gif" width="38" align="absmiddle" alt="news" /></a><br />
+  <a href="https://x.com/arora_mrinaal"><img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/social-x-797c56b1ea31.png" width="24" align="absmiddle" alt="" /><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/social-link-tweets-dark-f0b903b49a02.gif" /><img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/social-link-tweets-light-faf5a468a195.gif" width="52" align="absmiddle" alt="tweets" /></picture></a> ·
+  <a href="https://www.linkedin.com/in/aroramri"><img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/social-linkedin-cd77720a7b72.png" width="24" align="absmiddle" alt="" /><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/social-link-linkedin-dark-0d06ac357bf5.gif" /><img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/social-link-linkedin-light-c66f9cff9932.gif" width="59" align="absmiddle" alt="linkedin" /></picture></a><br />
+  <a href="https://huggingface.co/mrinaalarora"><img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/social-huggingface-4a71ad25ffa9.png" width="24" align="absmiddle" alt="" /><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/social-link-huggingface-dark-995af67db856.gif" /><img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/social-link-huggingface-light-b00e73824ece.gif" width="92" align="absmiddle" alt="Hugging Face" /></picture></a>
 </p>
 
 Hi, I'm Mrinaal! 👋
