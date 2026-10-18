@@ -90,6 +90,15 @@
     "bytes": 8883
   },
   {
+    "name": "claude-codex-canvas",
+    "file": "claude-codex-canvas-d1abca3e6d87.png",
+    "poster": "claude-codex-canvas-d1abca3e6d87.png",
+    "width": 24,
+    "height": 24,
+    "duration": 0,
+    "bytes": 8555
+  },
+  {
     "name": "rumik-moth",
     "file": "rumik-moth-0d1a18c1e3ee.png",
     "poster": "rumik-moth-0d1a18c1e3ee.png",
@@ -151,6 +160,15 @@
     "height": 24,
     "duration": 0,
     "bytes": 11044
+  },
+  {
+    "name": "qwen3-sae-features",
+    "file": "qwen3-sae-features-425487da0e87.png",
+    "poster": "qwen3-sae-features-425487da0e87.png",
+    "width": 24,
+    "height": 24,
+    "duration": 0,
+    "bytes": 11709
   },
   {
     "name": "project-link-write-up",
@@ -286,5 +304,23 @@
     "height": 22,
     "duration": 7680,
     "bytes": 13391
+  },
+  {
+    "name": "home-mumbai",
+    "file": "home-mumbai-d15bf68555e6.png",
+    "poster": "home-mumbai-d15bf68555e6.png",
+    "width": 48,
+    "height": 80,
+    "duration": 0,
+    "bytes": 39959
+  },
+  {
+    "name": "home-arizona",
+    "file": "home-arizona-425514441c7f.png",
+    "poster": "home-arizona-425514441c7f.png",
+    "width": 48,
+    "height": 80,
+    "duration": 0,
+    "bytes": 36597
   }
 ]
