@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>Understanding Coding Agent Harnesses</title>
+  <desc>A terminal window with a prompt, a cursor and a context-window bar, inside an amber loop arrow that turns once per call while the bar grows.</desc>
+    <!-- The loop: an arc of 304° and an arrowhead whose tip sits on the circle, pointing along it. -->
+  <g class="loop" fill="#F59E0B">
+    <path d="M38.84 14.73A17.5 17.5 0 1 1 25.41 6.56" fill="none" stroke="#F59E0B" stroke-width="3" stroke-linecap="round"/>
+    <path d="M31.88 8.37L23.47 10.97L25.75 2.05Z" stroke="#F59E0B" stroke-width="1" stroke-linejoin="round"/>
+  </g>
+  <!-- The terminal, 1.5px clear of the loop at its corners. -->
+  <rect x="13" y="17" width="22" height="14" rx="3" fill="#0D1117" stroke="#E6EDF3" stroke-width="2"/>
+  <path d="M17.5 20L20.5 22L17.5 24" fill="none" stroke="#F59E0B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect class="cursor" x="22" y="22" width="5" height="2" rx="0.5" fill="#E6EDF3"/>
+  <!-- The context window, in the post's colours: prompt and tools, skills, messages, tool results. -->
+  <rect x="17" y="26" width="5" height="2" fill="#8B8B8B"/>
+  <rect class="grow s2" x="22" y="26" width="2.5" height="2" fill="#B8862E"/>
+  <rect class="grow s3" x="24.5" y="26" width="3" height="2" fill="#4C78C9"/>
+  <rect class="grow s4" x="27.5" y="26" width="3.5" height="2" fill="#6F9BE0"/>
+</svg>

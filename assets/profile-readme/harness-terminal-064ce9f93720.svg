@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>Understanding Coding Agent Harnesses</title>
+  <desc>A terminal window with a prompt, a cursor and a context-window bar, inside an amber loop arrow that turns once per call while the bar grows.</desc>
+  <style>
+    /* One cycle: three calls. The loop turns once per call, and each call adds a piece to the window. */
+    .loop { transform-origin: 24px 24px; animation: turn 7.2s infinite; }
+    .grow { transform-box: fill-box; transform-origin: left center; }
+    .s2 { animation: s2 7.2s infinite; }
+    .s3 { animation: s3 7.2s infinite; }
+    .s4 { animation: s4 7.2s infinite; }
+    .cursor { animation: blink 1.2s steps(1, end) infinite; }
+    @keyframes turn {
+      0% { transform: rotate(0deg); animation-timing-function: cubic-bezier(0.45, 0, 0.55, 1); }
+      12%, 25% { transform: rotate(360deg); animation-timing-function: cubic-bezier(0.45, 0, 0.55, 1); }
+      37%, 50% { transform: rotate(720deg); animation-timing-function: cubic-bezier(0.45, 0, 0.55, 1); }
+      62%, 100% { transform: rotate(1080deg); }
+    }
+    @keyframes s2 { 0%, 12% { transform: scaleX(0); } 17%, 90% { transform: scaleX(1); opacity: 1; } 97%, 100% { transform: scaleX(1); opacity: 0; } }
+    @keyframes s3 { 0%, 37% { transform: scaleX(0); } 42%, 90% { transform: scaleX(1); opacity: 1; } 97%, 100% { transform: scaleX(1); opacity: 0; } }
+    @keyframes s4 { 0%, 62% { transform: scaleX(0); } 67%, 90% { transform: scaleX(1); opacity: 1; } 97%, 100% { transform: scaleX(1); opacity: 0; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .loop, .s2, .s3, .s4, .cursor { animation: none; }
+    }
+  </style>
+  <!-- The loop: an arc of 304° and an arrowhead whose tip sits on the circle, pointing along it. -->
+  <g class="loop" fill="#F59E0B">
+    <path d="M38.84 14.73A17.5 17.5 0 1 1 25.41 6.56" fill="none" stroke="#F59E0B" stroke-width="3" stroke-linecap="round"/>
+    <path d="M31.88 8.37L23.47 10.97L25.75 2.05Z" stroke="#F59E0B" stroke-width="1" stroke-linejoin="round"/>
+  </g>
+  <!-- The terminal, 1.5px clear of the loop at its corners. -->
+  <rect x="13" y="17" width="22" height="14" rx="3" fill="#0D1117" stroke="#E6EDF3" stroke-width="2"/>
+  <path d="M17.5 20L20.5 22L17.5 24" fill="none" stroke="#F59E0B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect class="cursor" x="22" y="22" width="5" height="2" rx="0.5" fill="#E6EDF3"/>
+  <!-- The context window, in the post's colours: prompt and tools, skills, messages, tool results. -->
+  <rect x="17" y="26" width="5" height="2" fill="#8B8B8B"/>
+  <rect class="grow s2" x="22" y="26" width="2.5" height="2" fill="#B8862E"/>
+  <rect class="grow s3" x="24.5" y="26" width="3" height="2" fill="#4C78C9"/>
+  <rect class="grow s4" x="27.5" y="26" width="3.5" height="2" fill="#6F9BE0"/>
+</svg>

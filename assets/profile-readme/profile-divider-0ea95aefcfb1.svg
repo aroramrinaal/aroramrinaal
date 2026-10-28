@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="8" viewBox="0 0 880 8" preserveAspectRatio="none">
+  <!-- GitHub's muted grey at low opacity reads as a light hairline on both the light and dark themes. -->
+  <defs>
+    <!-- userSpaceOnUse: a flat line has a zero-height box, which a bounding-box gradient can't paint. -->
+    <linearGradient id="fade" gradientUnits="userSpaceOnUse" x1="0" x2="880" y1="0" y2="0">
+      <stop offset="0" stop-color="#8B949E" stop-opacity="0"/>
+      <stop offset="0.12" stop-color="#8B949E" stop-opacity="0.45"/>
+      <stop offset="0.88" stop-color="#8B949E" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#8B949E" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <!-- The image scales with the column; the stroke stays 1px at every width. -->
+  <path d="M0 4H880" stroke="url(#fade)" stroke-width="1" vector-effect="non-scaling-stroke"/>
+</svg>

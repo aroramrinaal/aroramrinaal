@@ -9,6 +9,14 @@
   <br clear="all" />
 </p>
 
+<!-- latest-news:start · generated from src/data/news/events.ts by `pnpm generate:profile-news`; edit the event there -->
+
+<a href="https://aroramrinaal.com/news"><img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/latest-news-0cf58bcec4aa.png" width="45" align="absmiddle" alt="Latest news:" /></a> Published **Understanding Coding Agent Harnesses** <picture><img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/harness-terminal-064ce9f93720.svg" width="24" align="absmiddle" alt="" /></picture>, how coding agents work, layer by layer: the model, the harness, and the context. <a href="https://aroramrinaal.com/ai/understanding-coding-agent-harnesses"><img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/project-link-write-up-c6dc6c152761.png" width="72" align="absmiddle" alt="[write-up]" /></a>
+
+<!-- latest-news:end -->
+
+<p align="center"><picture><img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/profile-divider-0ea95aefcfb1.svg" width="880" alt="" /></picture></p>
+
 Hi, I'm Mrinaal! 👋
 
 I work independently on **[AI research](https://aroramrinaal.com/ai)** full-time, focused on **AI alignment, AI safety, multilingual models and agent evaluation**. Along the way, I've worked hands-on with language-model training and post-training, reinforcement learning, mechanistic interpretability and multi-agent systems. I also maintain <img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/india-lens-419ebefa85c9.png" width="28" align="absmiddle" alt="" /> [isindiakeepingup.com](https://isindiakeepingup.com/), which tracks India's LLM release pace against the US, China, Singapore and South Korea.

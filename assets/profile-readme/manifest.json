@@ -207,6 +207,33 @@
     "bytes": 2141
   },
   {
+    "name": "project-link-code",
+    "file": "project-link-code-b385597ffb45.png",
+    "poster": "project-link-code-b385597ffb45.png",
+    "width": 48,
+    "height": 22,
+    "duration": 0,
+    "bytes": 2449
+  },
+  {
+    "name": "project-link-work-page",
+    "file": "project-link-work-page-35dd68cc7d49.png",
+    "poster": "project-link-work-page-35dd68cc7d49.png",
+    "width": 88,
+    "height": 22,
+    "duration": 0,
+    "bytes": 4419
+  },
+  {
+    "name": "project-link-paper",
+    "file": "project-link-paper-cae2129566a8.png",
+    "poster": "project-link-paper-cae2129566a8.png",
+    "width": 54,
+    "height": 22,
+    "duration": 0,
+    "bytes": 2652
+  },
+  {
     "name": "navigation-link-me",
     "file": "navigation-link-me-596229cda23d.gif",
     "poster": "navigation-link-me-596229cda23d.png",
@@ -331,5 +358,31 @@
     "height": 80,
     "duration": 0,
     "bytes": 36597
+  },
+  {
+    "name": "latest-news",
+    "file": "latest-news-0cf58bcec4aa.png",
+    "poster": "latest-news-0cf58bcec4aa.png",
+    "width": 45,
+    "height": 20,
+    "duration": 0,
+    "bytes": 2186
+  },
+  {
+    "name": "harness-terminal",
+    "file": "harness-terminal-064ce9f93720.svg",
+    "poster": "harness-terminal-064ce9f93720-still.svg",
+    "width": 24,
+    "height": 24,
+    "duration": 7200,
+    "bytes": 2910
+  },
+  {
+    "name": "profile-divider",
+    "file": "profile-divider-0ea95aefcfb1.svg",
+    "poster": "profile-divider-0ea95aefcfb1-still.svg",
+    "width": 880,
+    "height": 8,
+    "bytes": 906
   }
 ]
