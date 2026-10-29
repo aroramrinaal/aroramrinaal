@@ -234,6 +234,24 @@
     "bytes": 2652
   },
   {
+    "name": "project-link-all-projects",
+    "file": "project-link-all-projects-aeeb56ceae04.png",
+    "poster": "project-link-all-projects-aeeb56ceae04.png",
+    "width": 106,
+    "height": 22,
+    "duration": 0,
+    "bytes": 4273
+  },
+  {
+    "name": "project-link-back-to-profile",
+    "file": "project-link-back-to-profile-db3e26b87ff4.png",
+    "poster": "project-link-back-to-profile-db3e26b87ff4.png",
+    "width": 130,
+    "height": 22,
+    "duration": 0,
+    "bytes": 5095
+  },
+  {
     "name": "navigation-link-me",
     "file": "navigation-link-me-596229cda23d.gif",
     "poster": "navigation-link-me-596229cda23d.png",
@@ -384,5 +402,22 @@
     "width": 880,
     "height": 8,
     "bytes": 906
+  },
+  {
+    "name": "more-projects",
+    "file": "more-projects-cc74b47e44c7.webp",
+    "poster": "more-projects-cc74b47e44c7.png",
+    "width": 46,
+    "height": 44,
+    "duration": 13000,
+    "bytes": 163382,
+    "cards": [
+      "efficient-qwen",
+      "parameter-golf",
+      "qwen3-sae-features",
+      "kaarya",
+      "duotime",
+      "cursor-path"
+    ]
   }
 ]
