@@ -1,23 +1,5 @@
 [
   {
-    "name": "world-fan-arena-pair",
-    "file": "world-fan-arena-pair-43d99e6b5777.png",
-    "poster": "world-fan-arena-pair-43d99e6b5777.png",
-    "width": 48,
-    "height": 24,
-    "duration": 0,
-    "bytes": 13613
-  },
-  {
-    "name": "voice-directory",
-    "file": "voice-directory-c7fc92f8625a.png",
-    "poster": "voice-directory-c7fc92f8625a.png",
-    "width": 28,
-    "height": 28,
-    "duration": 0,
-    "bytes": 8109
-  },
-  {
     "name": "world-fan-arena-football",
     "file": "world-fan-arena-football-81ecfefcaa46.gif",
     "poster": "world-fan-arena-football-81ecfefcaa46.png",
@@ -423,12 +405,12 @@
   },
   {
     "name": "more-projects",
-    "file": "more-projects-7b94fe469199.webp",
-    "poster": "more-projects-7b94fe469199.png",
-    "width": 54,
-    "height": 48,
-    "duration": 4600,
-    "bytes": 1285302,
+    "file": "more-projects-cc74b47e44c7.webp",
+    "poster": "more-projects-cc74b47e44c7.png",
+    "width": 46,
+    "height": 44,
+    "duration": 13000,
+    "bytes": 163382,
     "cards": [
       "efficient-qwen",
       "parameter-golf",
@@ -436,9 +418,6 @@
       "kaarya",
       "duotime",
       "cursor-path"
-    ],
-    "motion": "fan-flourish",
-    "scale": 4,
-    "frameMs": 20
+    ]
   }
 ]

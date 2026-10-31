@@ -2,6 +2,8 @@
 
 <a href="https://github.com/aroramrinaal"><img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/project-link-back-to-profile-db3e26b87ff4.png" width="130" align="absmiddle" alt="← Back to profile" /></a>
 
+<p align="center"><picture><img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/profile-divider-0ea95aefcfb1.svg" width="880" alt="" /></picture></p>
+
 **Open Source Projects** · 11
 
 <picture><img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/claude-codex-canvas-d1abca3e6d87.png" width="24" align="absmiddle" alt="" /></picture> [Claude Codex Canvas](https://github.com/aroramrinaal/claude-codex-canvas) — A Claude Code skill for creating images and animations with Codex. <a href="https://aroramrinaal.com/ai/claude-codex-canvas"><img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/project-link-project-page-b9662d24d31d.png" width="104" align="absmiddle" alt="[project page]" /></a>
