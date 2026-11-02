@@ -261,6 +261,15 @@
     "bytes": 4273
   },
   {
+    "name": "project-link-all-news",
+    "file": "project-link-all-news-ee97dfc64cfd.png",
+    "poster": "project-link-all-news-ee97dfc64cfd.png",
+    "width": 82,
+    "height": 22,
+    "duration": 0,
+    "bytes": 3185
+  },
+  {
     "name": "project-link-back-to-profile",
     "file": "project-link-back-to-profile-db3e26b87ff4.png",
     "poster": "project-link-back-to-profile-db3e26b87ff4.png",
@@ -440,5 +449,158 @@
     "motion": "fan-flourish",
     "scale": 4,
     "frameMs": 20
+  },
+  {
+    "name": "news-title-dark",
+    "file": "news-title-dark-b87bf7165edf.png",
+    "poster": "news-title-dark-b87bf7165edf.png",
+    "width": 86,
+    "height": 44,
+    "duration": 0,
+    "bytes": 4576
+  },
+  {
+    "name": "news-title-light",
+    "file": "news-title-light-a3a072167160.png",
+    "poster": "news-title-light-a3a072167160.png",
+    "width": 86,
+    "height": 44,
+    "duration": 0,
+    "bytes": 4854
+  },
+  {
+    "name": "news-date-2026-11-02",
+    "file": "news-date-2026-11-02-93114a5fe8b7.png",
+    "poster": "news-date-2026-11-02-93114a5fe8b7.png",
+    "width": 81,
+    "height": 22,
+    "duration": 0,
+    "bytes": 2636
+  },
+  {
+    "name": "news-date-2026-10-28",
+    "file": "news-date-2026-10-28-3dd5191fc9a4.png",
+    "poster": "news-date-2026-10-28-3dd5191fc9a4.png",
+    "width": 81,
+    "height": 22,
+    "duration": 0,
+    "bytes": 3149
+  },
+  {
+    "name": "news-date-2026-10-19",
+    "file": "news-date-2026-10-19-f278eadffbae.png",
+    "poster": "news-date-2026-10-19-f278eadffbae.png",
+    "width": 81,
+    "height": 22,
+    "duration": 0,
+    "bytes": 3071
+  },
+  {
+    "name": "news-date-2026-10-13",
+    "file": "news-date-2026-10-13-7fbf40c97073.png",
+    "poster": "news-date-2026-10-13-7fbf40c97073.png",
+    "width": 81,
+    "height": 22,
+    "duration": 0,
+    "bytes": 3058
+  },
+  {
+    "name": "news-date-2026-10-09",
+    "file": "news-date-2026-10-09-336ccca07201.png",
+    "poster": "news-date-2026-10-09-336ccca07201.png",
+    "width": 81,
+    "height": 22,
+    "duration": 0,
+    "bytes": 3124
+  },
+  {
+    "name": "news-date-2026-10-01",
+    "file": "news-date-2026-10-01-e30333e74ce0.png",
+    "poster": "news-date-2026-10-01-e30333e74ce0.png",
+    "width": 81,
+    "height": 22,
+    "duration": 0,
+    "bytes": 2737
+  },
+  {
+    "name": "news-date-2026-09-24",
+    "file": "news-date-2026-09-24-5ab0fbd1d0a7.png",
+    "poster": "news-date-2026-09-24-5ab0fbd1d0a7.png",
+    "width": 81,
+    "height": 22,
+    "duration": 0,
+    "bytes": 3267
+  },
+  {
+    "name": "news-date-2026-08-17",
+    "file": "news-date-2026-08-17-87f240cdf713.png",
+    "poster": "news-date-2026-08-17-87f240cdf713.png",
+    "width": 81,
+    "height": 22,
+    "duration": 0,
+    "bytes": 3339
+  },
+  {
+    "name": "news-date-2026-07-16",
+    "file": "news-date-2026-07-16-7ec3a0b8f8eb.png",
+    "poster": "news-date-2026-07-16-7ec3a0b8f8eb.png",
+    "width": 81,
+    "height": 22,
+    "duration": 0,
+    "bytes": 2953
+  },
+  {
+    "name": "news-date-2026-06-30",
+    "file": "news-date-2026-06-30-8e3992c65022.png",
+    "poster": "news-date-2026-06-30-8e3992c65022.png",
+    "width": 81,
+    "height": 22,
+    "duration": 0,
+    "bytes": 2894
+  },
+  {
+    "name": "news-date-2026-05-04",
+    "file": "news-date-2026-05-04-bed2cf6f7e7f.png",
+    "poster": "news-date-2026-05-04-bed2cf6f7e7f.png",
+    "width": 81,
+    "height": 22,
+    "duration": 0,
+    "bytes": 3154
+  },
+  {
+    "name": "news-date-2025-08",
+    "file": "news-date-2025-08-1ecd8e3de58e.png",
+    "poster": "news-date-2025-08-1ecd8e3de58e.png",
+    "width": 60,
+    "height": 22,
+    "duration": 0,
+    "bytes": 2616
+  },
+  {
+    "name": "news-date-2025-05",
+    "file": "news-date-2025-05-876428ae9c8b.png",
+    "poster": "news-date-2025-05-876428ae9c8b.png",
+    "width": 60,
+    "height": 22,
+    "duration": 0,
+    "bytes": 2199
+  },
+  {
+    "name": "news-date-2025-01",
+    "file": "news-date-2025-01-46798beec826.png",
+    "poster": "news-date-2025-01-46798beec826.png",
+    "width": 60,
+    "height": 22,
+    "duration": 0,
+    "bytes": 2370
+  },
+  {
+    "name": "news-date-2022-08",
+    "file": "news-date-2022-08-9b1095ec1a97.png",
+    "poster": "news-date-2022-08-9b1095ec1a97.png",
+    "width": 60,
+    "height": 22,
+    "duration": 0,
+    "bytes": 2240
   }
 ]

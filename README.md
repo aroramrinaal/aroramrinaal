@@ -13,6 +13,8 @@
 
 <a href="https://aroramrinaal.com/news"><img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/latest-news-0cf58bcec4aa.png" width="45" align="absmiddle" alt="Latest news:" /></a> Released <picture><img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/india-lens-419ebefa85c9.png" width="28" align="absmiddle" alt="" /></picture> **Is India Keeping Up?: State of Voice AI** <picture><img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/voice-directory-c7fc92f8625a.png" width="28" align="absmiddle" alt="" /></picture>, exploring why Indian companies are turning to voice AI, with a directory of speech model builders and more. <a href="https://isindiakeepingup.com/state-of-voice-ai"><img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/project-link-project-page-b9662d24d31d.png" width="104" align="absmiddle" alt="[project page]" /></a>
 
+<p align="right"><a href="https://github.com/aroramrinaal/aroramrinaal/tree/main/news"><img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/project-link-all-news-ee97dfc64cfd.png" width="82" align="absmiddle" alt="All news →" /></a></p>
+
 <!-- latest-news:end -->
 
 <p align="center"><picture><img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/profile-divider-0ea95aefcfb1.svg" width="880" alt="" /></picture></p>
