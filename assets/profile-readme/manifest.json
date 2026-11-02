@@ -99,6 +99,24 @@
     "bytes": 59502
   },
   {
+    "name": "research-underline-narrow-light",
+    "file": "research-underline-narrow-light-724390a0a5c5.gif",
+    "poster": "research-underline-narrow-light-724390a0a5c5.png",
+    "width": 175,
+    "height": 46,
+    "duration": 7040,
+    "bytes": 52759
+  },
+  {
+    "name": "research-underline-narrow-dark",
+    "file": "research-underline-narrow-dark-0177e216dede.gif",
+    "poster": "research-underline-narrow-dark-0177e216dede.png",
+    "width": 175,
+    "height": 46,
+    "duration": 7040,
+    "bytes": 52324
+  },
+  {
     "name": "codex-claude-crew",
     "file": "codex-claude-crew-a2aaa69297bc.png",
     "poster": "codex-claude-crew-a2aaa69297bc.png",
@@ -602,5 +620,14 @@
     "height": 22,
     "duration": 0,
     "bytes": 2240
+  },
+  {
+    "name": "responsive-blank",
+    "file": "responsive-blank-4849b176e872.png",
+    "poster": "responsive-blank-4849b176e872.png",
+    "width": 1,
+    "height": 1,
+    "duration": 0,
+    "bytes": 90
   }
 ]
