@@ -1,8 +1,6 @@
 <!-- generated from public/aroramrinaal.md by `pnpm generate:profile-projects`; edit the entries there -->
 
-<a href="https://github.com/aroramrinaal"><img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/project-link-back-to-profile-db3e26b87ff4.png" width="130" align="absmiddle" alt="← Back to profile" /></a>
-
-**Open Source Projects** · 11
+<p><a href="https://github.com/aroramrinaal"><img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/project-link-back-to-profile-db3e26b87ff4.png" width="130" align="right" vspace="11" alt="← Back to profile" /></a><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/projects-title-dark-2a33c76b5fa7.png" /><img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/projects-title-light-9f5e847eb29f.png" width="347" align="absmiddle" alt="Open Source Projects" /></picture><br clear="all" /></p>
 
 <picture><img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/claude-codex-canvas-d1abca3e6d87.png" width="24" align="absmiddle" alt="" /></picture> [Claude Codex Canvas](https://github.com/aroramrinaal/claude-codex-canvas) — A Claude Code skill for creating images and animations with Codex. <a href="https://aroramrinaal.com/ai/claude-codex-canvas"><img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/project-link-project-page-b9662d24d31d.png" width="104" align="absmiddle" alt="[project page]" /></a>
 
