@@ -46,21 +46,30 @@
   },
   {
     "name": "ohara",
-    "file": "ohara-f5c8c916d312.gif",
-    "poster": "ohara-f5c8c916d312.png",
-    "width": 16,
-    "height": 16,
-    "duration": 3600,
-    "bytes": 6243
+    "file": "ohara-abf98045d2ff.png",
+    "poster": "ohara-abf98045d2ff.png",
+    "width": 28,
+    "height": 28,
+    "duration": 0,
+    "bytes": 1557
+  },
+  {
+    "name": "ohara-nameplate",
+    "file": "ohara-nameplate-0a584bc6761e.png",
+    "poster": "ohara-nameplate-0a584bc6761e.png",
+    "width": 90,
+    "height": 34,
+    "duration": 0,
+    "bytes": 3989
   },
   {
     "name": "ok-health",
-    "file": "ok-health-134493e20bbb.gif",
-    "poster": "ok-health-134493e20bbb.png",
-    "width": 16,
-    "height": 16,
-    "duration": 4800,
-    "bytes": 35109
+    "file": "ok-health-fe152119a116.png",
+    "poster": "ok-health-fe152119a116.png",
+    "width": 28,
+    "height": 28,
+    "duration": 0,
+    "bytes": 3456
   },
   {
     "name": "arizona",
@@ -90,40 +99,265 @@
     "bytes": 3465
   },
   {
-    "name": "research-underline-light",
-    "file": "research-underline-light-52d2de9e0e67.gif",
-    "poster": "research-underline-light-52d2de9e0e67.png",
-    "width": 329,
-    "height": 20,
-    "duration": 7040,
-    "bytes": 59580
+    "name": "research-notice-wide-head",
+    "file": "research-notice-wide-head-5e6d22fe2891.webp",
+    "poster": "research-notice-wide-head-5e6d22fe2891.png",
+    "width": 542,
+    "height": 81,
+    "duration": 5600,
+    "bytes": 211398
   },
   {
-    "name": "research-underline-dark",
-    "file": "research-underline-dark-8ad7ee2b7064.gif",
-    "poster": "research-underline-dark-8ad7ee2b7064.png",
-    "width": 329,
-    "height": 20,
-    "duration": 7040,
-    "bytes": 59502
+    "name": "research-notice-wide-base",
+    "file": "research-notice-wide-base-6d552d87f26e.webp",
+    "poster": "research-notice-wide-base-6d552d87f26e.png",
+    "width": 542,
+    "height": 53,
+    "duration": 5600,
+    "bytes": 166642
   },
   {
-    "name": "research-underline-narrow-light",
-    "file": "research-underline-narrow-light-724390a0a5c5.gif",
-    "poster": "research-underline-narrow-light-724390a0a5c5.png",
-    "width": 175,
-    "height": 46,
-    "duration": 7040,
-    "bytes": 52759
+    "name": "research-notice-wide-list",
+    "file": "research-notice-wide-list-6901321b714d.png",
+    "poster": "research-notice-wide-list-6901321b714d.png",
+    "width": 542,
+    "height": 59,
+    "duration": 0,
+    "bytes": 41790
   },
   {
-    "name": "research-underline-narrow-dark",
-    "file": "research-underline-narrow-dark-0177e216dede.gif",
-    "poster": "research-underline-narrow-dark-0177e216dede.png",
-    "width": 175,
-    "height": 46,
-    "duration": 7040,
-    "bytes": 52324
+    "name": "research-notice-wide-more",
+    "file": "research-notice-wide-more-c0a8d33235d5.webp",
+    "poster": "research-notice-wide-more-c0a8d33235d5.png",
+    "width": 542,
+    "height": 75,
+    "duration": 5600,
+    "bytes": 73040
+  },
+  {
+    "name": "research-notice-wide-cv",
+    "file": "research-notice-wide-cv-dba1b506e8d5.png",
+    "poster": "research-notice-wide-cv-dba1b506e8d5.png",
+    "width": 161,
+    "height": 45,
+    "duration": 0,
+    "bytes": 9534
+  },
+  {
+    "name": "research-notice-wide-email",
+    "file": "research-notice-wide-email-b37f71368650.png",
+    "poster": "research-notice-wide-email-b37f71368650.png",
+    "width": 100,
+    "height": 45,
+    "duration": 0,
+    "bytes": 7042
+  },
+  {
+    "name": "research-notice-wide-rest",
+    "file": "research-notice-wide-rest-a46ff1afb8b6.png",
+    "poster": "research-notice-wide-rest-a46ff1afb8b6.png",
+    "width": 281,
+    "height": 45,
+    "duration": 0,
+    "bytes": 4341
+  },
+  {
+    "name": "research-notice-mid-head",
+    "file": "research-notice-mid-head-69992a0c9f94.webp",
+    "poster": "research-notice-mid-head-69992a0c9f94.png",
+    "width": 362,
+    "height": 98,
+    "duration": 5600,
+    "bytes": 193614
+  },
+  {
+    "name": "research-notice-mid-base",
+    "file": "research-notice-mid-base-d331e2d9a84d.webp",
+    "poster": "research-notice-mid-base-d331e2d9a84d.png",
+    "width": 362,
+    "height": 50,
+    "duration": 5600,
+    "bytes": 162580
+  },
+  {
+    "name": "research-notice-mid-list",
+    "file": "research-notice-mid-list-e10aebb7c196.png",
+    "poster": "research-notice-mid-list-e10aebb7c196.png",
+    "width": 362,
+    "height": 80,
+    "duration": 0,
+    "bytes": 42514
+  },
+  {
+    "name": "research-notice-mid-more",
+    "file": "research-notice-mid-more-62f9690d464a.webp",
+    "poster": "research-notice-mid-more-62f9690d464a.png",
+    "width": 362,
+    "height": 92,
+    "duration": 5600,
+    "bytes": 93532
+  },
+  {
+    "name": "research-notice-mid-cv",
+    "file": "research-notice-mid-cv-87b39001743e.png",
+    "poster": "research-notice-mid-cv-87b39001743e.png",
+    "width": 155,
+    "height": 45,
+    "duration": 0,
+    "bytes": 9593
+  },
+  {
+    "name": "research-notice-mid-email",
+    "file": "research-notice-mid-email-2d4b80f100c8.png",
+    "poster": "research-notice-mid-email-2d4b80f100c8.png",
+    "width": 100,
+    "height": 45,
+    "duration": 0,
+    "bytes": 7056
+  },
+  {
+    "name": "research-notice-mid-rest",
+    "file": "research-notice-mid-rest-e9962718c875.png",
+    "poster": "research-notice-mid-rest-e9962718c875.png",
+    "width": 107,
+    "height": 45,
+    "duration": 0,
+    "bytes": 2821
+  },
+  {
+    "name": "research-notice-narrow-head",
+    "file": "research-notice-narrow-head-efef8db969b0.webp",
+    "poster": "research-notice-narrow-head-efef8db969b0.png",
+    "width": 298,
+    "height": 92,
+    "duration": 5600,
+    "bytes": 171636
+  },
+  {
+    "name": "research-notice-narrow-base",
+    "file": "research-notice-narrow-base-3ccb485c7c53.webp",
+    "poster": "research-notice-narrow-base-3ccb485c7c53.png",
+    "width": 298,
+    "height": 47,
+    "duration": 5600,
+    "bytes": 149440
+  },
+  {
+    "name": "research-notice-narrow-list",
+    "file": "research-notice-narrow-list-55c5fe19d526.webp",
+    "poster": "research-notice-narrow-list-55c5fe19d526.png",
+    "width": 298,
+    "height": 199,
+    "duration": 5600,
+    "bytes": 96650
+  },
+  {
+    "name": "research-notice-narrow-cv",
+    "file": "research-notice-narrow-cv-9aeadd404373.png",
+    "poster": "research-notice-narrow-cv-9aeadd404373.png",
+    "width": 298,
+    "height": 47,
+    "duration": 0,
+    "bytes": 13599
+  },
+  {
+    "name": "research-notice-narrow-email",
+    "file": "research-notice-narrow-email-7cbdfc229399.png",
+    "poster": "research-notice-narrow-email-7cbdfc229399.png",
+    "width": 298,
+    "height": 40,
+    "duration": 0,
+    "bytes": 13323
+  },
+  {
+    "name": "research-notice-small-head",
+    "file": "research-notice-small-head-ba430d413d7a.webp",
+    "poster": "research-notice-small-head-ba430d413d7a.png",
+    "width": 254,
+    "height": 91,
+    "duration": 5600,
+    "bytes": 155178
+  },
+  {
+    "name": "research-notice-small-base",
+    "file": "research-notice-small-base-2d75bd46c416.webp",
+    "poster": "research-notice-small-base-2d75bd46c416.png",
+    "width": 254,
+    "height": 45,
+    "duration": 5600,
+    "bytes": 132014
+  },
+  {
+    "name": "research-notice-small-list",
+    "file": "research-notice-small-list-69de0d656a6f.webp",
+    "poster": "research-notice-small-list-69de0d656a6f.png",
+    "width": 254,
+    "height": 253,
+    "duration": 5600,
+    "bytes": 88124
+  },
+  {
+    "name": "research-notice-small-cv",
+    "file": "research-notice-small-cv-53874351b13e.png",
+    "poster": "research-notice-small-cv-53874351b13e.png",
+    "width": 254,
+    "height": 45,
+    "duration": 0,
+    "bytes": 12541
+  },
+  {
+    "name": "research-notice-small-email",
+    "file": "research-notice-small-email-e9501989d23d.png",
+    "poster": "research-notice-small-email-e9501989d23d.png",
+    "width": 254,
+    "height": 40,
+    "duration": 0,
+    "bytes": 12357
+  },
+  {
+    "name": "research-notice-tiny-head",
+    "file": "research-notice-tiny-head-6bb75de6d39b.webp",
+    "poster": "research-notice-tiny-head-6bb75de6d39b.png",
+    "width": 236,
+    "height": 87,
+    "duration": 5600,
+    "bytes": 143944
+  },
+  {
+    "name": "research-notice-tiny-base",
+    "file": "research-notice-tiny-base-e0a00cd12e87.webp",
+    "poster": "research-notice-tiny-base-e0a00cd12e87.png",
+    "width": 236,
+    "height": 43,
+    "duration": 5600,
+    "bytes": 124156
+  },
+  {
+    "name": "research-notice-tiny-list",
+    "file": "research-notice-tiny-list-7786f68a61f5.webp",
+    "poster": "research-notice-tiny-list-7786f68a61f5.png",
+    "width": 236,
+    "height": 243,
+    "duration": 5600,
+    "bytes": 86996
+  },
+  {
+    "name": "research-notice-tiny-cv",
+    "file": "research-notice-tiny-cv-a4111661ba3a.png",
+    "poster": "research-notice-tiny-cv-a4111661ba3a.png",
+    "width": 236,
+    "height": 45,
+    "duration": 0,
+    "bytes": 12075
+  },
+  {
+    "name": "research-notice-tiny-email",
+    "file": "research-notice-tiny-email-50cb5fca36bd.png",
+    "poster": "research-notice-tiny-email-50cb5fca36bd.png",
+    "width": 236,
+    "height": 40,
+    "duration": 0,
+    "bytes": 11976
   },
   {
     "name": "codex-claude-crew",
