@@ -594,6 +594,15 @@
     "bytes": 9876
   },
   {
+    "name": "social-alphaxiv",
+    "file": "social-alphaxiv-0cffc3e905d2.png",
+    "poster": "social-alphaxiv-0cffc3e905d2.png",
+    "width": 24,
+    "height": 24,
+    "duration": 0,
+    "bytes": 7858
+  },
+  {
     "name": "social-link-tweets-light",
     "file": "social-link-tweets-light-faf5a468a195.gif",
     "poster": "social-link-tweets-light-faf5a468a195.png",
@@ -648,6 +657,24 @@
     "bytes": 13391
   },
   {
+    "name": "social-link-alphaxiv-light",
+    "file": "social-link-alphaxiv-light-c760572acc09.gif",
+    "poster": "social-link-alphaxiv-light-c760572acc09.png",
+    "width": 66,
+    "height": 22,
+    "duration": 7680,
+    "bytes": 15634
+  },
+  {
+    "name": "social-link-alphaxiv-dark",
+    "file": "social-link-alphaxiv-dark-4f3fc717e198.gif",
+    "poster": "social-link-alphaxiv-dark-4f3fc717e198.png",
+    "width": 66,
+    "height": 22,
+    "duration": 7680,
+    "bytes": 15497
+  },
+  {
     "name": "home-mumbai",
     "file": "home-mumbai-2fa32960e35d.png",
     "poster": "home-mumbai-2fa32960e35d.png",
@@ -657,6 +684,15 @@
     "bytes": 47197
   },
   {
+    "name": "home-mumbai-mobile",
+    "file": "home-mumbai-mobile-6d0fc9375a67.png",
+    "poster": "home-mumbai-mobile-6d0fc9375a67.png",
+    "width": 48,
+    "height": 120,
+    "duration": 0,
+    "bytes": 47375
+  },
+  {
     "name": "home-arizona",
     "file": "home-arizona-425514441c7f.png",
     "poster": "home-arizona-425514441c7f.png",
@@ -664,6 +700,15 @@
     "height": 80,
     "duration": 0,
     "bytes": 36597
+  },
+  {
+    "name": "home-arizona-mobile",
+    "file": "home-arizona-mobile-5717181b1ff2.png",
+    "poster": "home-arizona-mobile-5717181b1ff2.png",
+    "width": 48,
+    "height": 120,
+    "duration": 0,
+    "bytes": 36863
   },
   {
     "name": "waving-hand",
@@ -755,6 +800,24 @@
     "height": 44,
     "duration": 0,
     "bytes": 13586
+  },
+  {
+    "name": "projects-title-compact-dark",
+    "file": "projects-title-compact-dark-2c68520b7e39.png",
+    "poster": "projects-title-compact-dark-2c68520b7e39.png",
+    "width": 129,
+    "height": 44,
+    "duration": 0,
+    "bytes": 6141
+  },
+  {
+    "name": "projects-title-compact-light",
+    "file": "projects-title-compact-light-05c3d06afc53.png",
+    "poster": "projects-title-compact-light-05c3d06afc53.png",
+    "width": 129,
+    "height": 44,
+    "duration": 0,
+    "bytes": 6537
   },
   {
     "name": "news-date-2026-11-02",
