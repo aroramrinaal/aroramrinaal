@@ -1,8 +1,5 @@
 # Profile README assets
 
-Generated and synced from [my-portfolio](https://github.com/aroramrinaal/my-portfolio/tree/main/docs/profile-readme).
-Edit the artwork and Markdown there; the next sync replaces this directory.
-
 | Folder | Contents |
 | --- | --- |
 | [navigation](navigation/) | Header locations, navigation labels and social links |
