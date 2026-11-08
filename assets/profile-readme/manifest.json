@@ -828,6 +828,24 @@
     "bytes": 2186
   },
   {
+    "name": "latest-news-leaf-2026-11-02",
+    "file": "news/latest-news-leaf-2026-11-02-b582b835a251.svg",
+    "poster": "news/latest-news-leaf-2026-11-02-b582b835a251-still.svg",
+    "width": 28,
+    "height": 30,
+    "duration": 8000,
+    "bytes": 6844
+  },
+  {
+    "name": "latest-news-split-2026-11-02",
+    "file": "news/latest-news-split-2026-11-02-c751063a03e3.png",
+    "poster": "news/latest-news-split-2026-11-02-c751063a03e3.png",
+    "width": 92,
+    "height": 20,
+    "duration": 0,
+    "bytes": 4241
+  },
+  {
     "name": "harness-terminal",
     "file": "projects/harness-terminal-064ce9f93720.svg",
     "poster": "projects/harness-terminal-064ce9f93720-still.svg",
