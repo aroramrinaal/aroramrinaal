@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="236" height="45" viewBox="0 330 236 45">
+<svg xmlns="http://www.w3.org/2000/svg" width="236" height="40" viewBox="0 285 236 40">
   <defs>
-    <filter id="shadow" x="-10%" y="-10%" width="120%" height="140%"><feGaussianBlur stdDeviation="6"/></filter>
+    <filter id="pad-shadow-tiny" x="-10%" y="-10%" width="120%" height="120%"><feGaussianBlur stdDeviation="2.5"/></filter>
   <filter id="pen-tiny-0" x="-5%" y="-200%" width="110%" height="500%">
     <feTurbulence type="fractalNoise" baseFrequency="0.06" numOctaves="2" seed="3"/>
     <feDisplacementMap in="SourceGraphic" scale="1.4"/>
@@ -21,12 +21,103 @@
     <feTurbulence type="fractalNoise" baseFrequency="0.06" numOctaves="2" seed="7"/>
     <feDisplacementMap in="SourceGraphic" scale="1.4"/>
   </filter>
-    <!-- Always masked, even with nothing cut, so the paper composites the same way in every frame. -->
-    <mask id="corner-hole-tiny"><rect x="-30" y="-20" width="296" height="502" fill="#fff"/></mask>
+    <mask id="pad-holes-tiny">
+      <rect x="0" y="0" width="236" height="374" fill="#fff"/>
+      <g fill="#000"><ellipse cx="13.5" cy="14.5" rx="2.1" ry="2.5"/><ellipse cx="24.5" cy="14.5" rx="2.1" ry="2.5"/><ellipse cx="35.5" cy="14.5" rx="2.1" ry="2.5"/><ellipse cx="46.5" cy="14.5" rx="2.1" ry="2.5"/><ellipse cx="57.5" cy="14.5" rx="2.1" ry="2.5"/><ellipse cx="68.5" cy="14.5" rx="2.1" ry="2.5"/><ellipse cx="79.5" cy="14.5" rx="2.1" ry="2.5"/><ellipse cx="90.5" cy="14.5" rx="2.1" ry="2.5"/><ellipse cx="101.5" cy="14.5" rx="2.1" ry="2.5"/><ellipse cx="112.5" cy="14.5" rx="2.1" ry="2.5"/><ellipse cx="123.5" cy="14.5" rx="2.1" ry="2.5"/><ellipse cx="134.5" cy="14.5" rx="2.1" ry="2.5"/><ellipse cx="145.5" cy="14.5" rx="2.1" ry="2.5"/><ellipse cx="156.5" cy="14.5" rx="2.1" ry="2.5"/><ellipse cx="167.5" cy="14.5" rx="2.1" ry="2.5"/><ellipse cx="178.5" cy="14.5" rx="2.1" ry="2.5"/><ellipse cx="189.5" cy="14.5" rx="2.1" ry="2.5"/><ellipse cx="200.5" cy="14.5" rx="2.1" ry="2.5"/><ellipse cx="211.5" cy="14.5" rx="2.1" ry="2.5"/><ellipse cx="222.5" cy="14.5" rx="2.1" ry="2.5"/><circle cx="4" cy="285" r="3"/><circle cx="232" cy="285" r="3"/><circle cx="4" cy="325" r="3"/><circle cx="232" cy="325" r="3"/></g>
+    </mask>
   </defs>
-  <g transform="rotate(-0.5 118 231)">
-    <rect x="18" y="30" width="200" height="416" rx="4" fill="#000" opacity="0.32" filter="url(#shadow)"/>
-    <rect x="10.5" y="20.5" width="215" height="421" rx="3" fill="#FFFAF0" stroke="#C8A46B" mask="url(#corner-hole-tiny)"/>
+  <g transform="rotate(-0.5 118 187)">
+    <rect x="7" y="13" width="224" height="355" rx="3" fill="#000" opacity="0.35" filter="url(#pad-shadow-tiny)"/>
+    <g mask="url(#pad-holes-tiny)">
+      <rect x="5.5" y="11" width="228" height="356" rx="3" fill="#B79C6E"/>
+      <rect x="4.5" y="9.5" width="227" height="355" rx="3" fill="#FFFAF0" stroke="#C8A46B"/>
+      <path d="M5 62 V12 Q5 10 7 10 H229
+        Q231 10 231 12 V62 Z" fill="#F1DDB4"/>
+      <line x1="4.5" x2="231.5" y1="62" y2="62" stroke="#C8A46B"/>
+      <g stroke="#B4C6DF" stroke-width="0.8"><line x1="4" x2="232" y1="85" y2="85"/><line x1="4" x2="232" y1="104" y2="104"/><line x1="4" x2="232" y1="123" y2="123"/><line x1="4" x2="232" y1="142" y2="142"/><line x1="4" x2="232" y1="161" y2="161"/><line x1="4" x2="232" y1="180" y2="180"/><line x1="4" x2="232" y1="199" y2="199"/><line x1="4" x2="232" y1="218" y2="218"/><line x1="4" x2="232" y1="237" y2="237"/><line x1="4" x2="232" y1="256" y2="256"/><line x1="4" x2="232" y1="275" y2="275"/></g>
+      <line x1="21" x2="21" y1="62.5" y2="285" stroke="#DE8A80" stroke-width="1"/>
+      <rect x="4.5" y="285" width="227" height="40" fill="#B45309"/>
+    </g>
+    <path d="M11.9 15.1 C11.7 1 16.3 1 16.1 9.5" fill="none"
+      stroke="#5E6670" stroke-width="2" stroke-linecap="round"/>
+    <path d="M11.9 15.1 C11.7 1 16.3 1 16.1 9.5" fill="none"
+      stroke="#C9CFD6" stroke-width="1.1" stroke-linecap="round"/>
+    <path d="M22.9 15.1 C22.7 1 27.3 1 27.1 9.5" fill="none"
+      stroke="#5E6670" stroke-width="2" stroke-linecap="round"/>
+    <path d="M22.9 15.1 C22.7 1 27.3 1 27.1 9.5" fill="none"
+      stroke="#C9CFD6" stroke-width="1.1" stroke-linecap="round"/>
+    <path d="M33.9 15.1 C33.7 1 38.3 1 38.1 9.5" fill="none"
+      stroke="#5E6670" stroke-width="2" stroke-linecap="round"/>
+    <path d="M33.9 15.1 C33.7 1 38.3 1 38.1 9.5" fill="none"
+      stroke="#C9CFD6" stroke-width="1.1" stroke-linecap="round"/>
+    <path d="M44.9 15.1 C44.7 1 49.3 1 49.1 9.5" fill="none"
+      stroke="#5E6670" stroke-width="2" stroke-linecap="round"/>
+    <path d="M44.9 15.1 C44.7 1 49.3 1 49.1 9.5" fill="none"
+      stroke="#C9CFD6" stroke-width="1.1" stroke-linecap="round"/>
+    <path d="M55.9 15.1 C55.7 1 60.3 1 60.1 9.5" fill="none"
+      stroke="#5E6670" stroke-width="2" stroke-linecap="round"/>
+    <path d="M55.9 15.1 C55.7 1 60.3 1 60.1 9.5" fill="none"
+      stroke="#C9CFD6" stroke-width="1.1" stroke-linecap="round"/>
+    <path d="M66.9 15.1 C66.7 1 71.3 1 71.1 9.5" fill="none"
+      stroke="#5E6670" stroke-width="2" stroke-linecap="round"/>
+    <path d="M66.9 15.1 C66.7 1 71.3 1 71.1 9.5" fill="none"
+      stroke="#C9CFD6" stroke-width="1.1" stroke-linecap="round"/>
+    <path d="M77.9 15.1 C77.7 1 82.3 1 82.1 9.5" fill="none"
+      stroke="#5E6670" stroke-width="2" stroke-linecap="round"/>
+    <path d="M77.9 15.1 C77.7 1 82.3 1 82.1 9.5" fill="none"
+      stroke="#C9CFD6" stroke-width="1.1" stroke-linecap="round"/>
+    <path d="M88.9 15.1 C88.7 1 93.3 1 93.1 9.5" fill="none"
+      stroke="#5E6670" stroke-width="2" stroke-linecap="round"/>
+    <path d="M88.9 15.1 C88.7 1 93.3 1 93.1 9.5" fill="none"
+      stroke="#C9CFD6" stroke-width="1.1" stroke-linecap="round"/>
+    <path d="M99.9 15.1 C99.7 1 104.3 1 104.1 9.5" fill="none"
+      stroke="#5E6670" stroke-width="2" stroke-linecap="round"/>
+    <path d="M99.9 15.1 C99.7 1 104.3 1 104.1 9.5" fill="none"
+      stroke="#C9CFD6" stroke-width="1.1" stroke-linecap="round"/>
+    <path d="M110.9 15.1 C110.7 1 115.3 1 115.1 9.5" fill="none"
+      stroke="#5E6670" stroke-width="2" stroke-linecap="round"/>
+    <path d="M110.9 15.1 C110.7 1 115.3 1 115.1 9.5" fill="none"
+      stroke="#C9CFD6" stroke-width="1.1" stroke-linecap="round"/>
+    <path d="M121.9 15.1 C121.7 1 126.3 1 126.1 9.5" fill="none"
+      stroke="#5E6670" stroke-width="2" stroke-linecap="round"/>
+    <path d="M121.9 15.1 C121.7 1 126.3 1 126.1 9.5" fill="none"
+      stroke="#C9CFD6" stroke-width="1.1" stroke-linecap="round"/>
+    <path d="M132.9 15.1 C132.7 1 137.3 1 137.1 9.5" fill="none"
+      stroke="#5E6670" stroke-width="2" stroke-linecap="round"/>
+    <path d="M132.9 15.1 C132.7 1 137.3 1 137.1 9.5" fill="none"
+      stroke="#C9CFD6" stroke-width="1.1" stroke-linecap="round"/>
+    <path d="M143.9 15.1 C143.7 1 148.3 1 148.1 9.5" fill="none"
+      stroke="#5E6670" stroke-width="2" stroke-linecap="round"/>
+    <path d="M143.9 15.1 C143.7 1 148.3 1 148.1 9.5" fill="none"
+      stroke="#C9CFD6" stroke-width="1.1" stroke-linecap="round"/>
+    <path d="M154.9 15.1 C154.7 1 159.3 1 159.1 9.5" fill="none"
+      stroke="#5E6670" stroke-width="2" stroke-linecap="round"/>
+    <path d="M154.9 15.1 C154.7 1 159.3 1 159.1 9.5" fill="none"
+      stroke="#C9CFD6" stroke-width="1.1" stroke-linecap="round"/>
+    <path d="M165.9 15.1 C165.7 1 170.3 1 170.1 9.5" fill="none"
+      stroke="#5E6670" stroke-width="2" stroke-linecap="round"/>
+    <path d="M165.9 15.1 C165.7 1 170.3 1 170.1 9.5" fill="none"
+      stroke="#C9CFD6" stroke-width="1.1" stroke-linecap="round"/>
+    <path d="M176.9 15.1 C176.7 1 181.3 1 181.1 9.5" fill="none"
+      stroke="#5E6670" stroke-width="2" stroke-linecap="round"/>
+    <path d="M176.9 15.1 C176.7 1 181.3 1 181.1 9.5" fill="none"
+      stroke="#C9CFD6" stroke-width="1.1" stroke-linecap="round"/>
+    <path d="M187.9 15.1 C187.7 1 192.3 1 192.1 9.5" fill="none"
+      stroke="#5E6670" stroke-width="2" stroke-linecap="round"/>
+    <path d="M187.9 15.1 C187.7 1 192.3 1 192.1 9.5" fill="none"
+      stroke="#C9CFD6" stroke-width="1.1" stroke-linecap="round"/>
+    <path d="M198.9 15.1 C198.7 1 203.3 1 203.1 9.5" fill="none"
+      stroke="#5E6670" stroke-width="2" stroke-linecap="round"/>
+    <path d="M198.9 15.1 C198.7 1 203.3 1 203.1 9.5" fill="none"
+      stroke="#C9CFD6" stroke-width="1.1" stroke-linecap="round"/>
+    <path d="M209.9 15.1 C209.7 1 214.3 1 214.1 9.5" fill="none"
+      stroke="#5E6670" stroke-width="2" stroke-linecap="round"/>
+    <path d="M209.9 15.1 C209.7 1 214.3 1 214.1 9.5" fill="none"
+      stroke="#C9CFD6" stroke-width="1.1" stroke-linecap="round"/>
+    <path d="M220.9 15.1 C220.7 1 225.3 1 225.1 9.5" fill="none"
+      stroke="#5E6670" stroke-width="2" stroke-linecap="round"/>
+    <path d="M220.9 15.1 C220.7 1 225.3 1 225.1 9.5" fill="none"
+      stroke="#C9CFD6" stroke-width="1.1" stroke-linecap="round"/>
     <defs>
   <!-- Across the cone, square to its sloping top edge: the narrow lemon band, then dark, then lit from below. -->
   <linearGradient id="megaphone-tiny-cone" gradientUnits="userSpaceOnUse" x1="150" y1="76" x2="105" y2="148">
@@ -63,7 +154,7 @@
     <stop offset="0" stop-color="#EBC03D"/><stop offset="0.45" stop-color="#B0932B"/>
     <stop offset="1" stop-color="#5C4911"/>
   </linearGradient></defs>
-  <g transform="translate(40.617 39.70035132743362) scale(-0.07330 0.07330) translate(-2 -16) rotate(0.00 142 170)">
+  <g transform="translate(31.617 21.70035132743363) scale(-0.07330 0.07330) translate(-2 -16) rotate(0.00 142 170)">
     <ellipse cx="146" cy="220" rx="16" ry="16" fill="none" stroke="url(#megaphone-tiny-ring)" stroke-width="12"/>
     <path d="M62 20 L224 118 L224 197 L70 208 L30 214 Z" fill="url(#megaphone-tiny-cone)"/>
     <path d="M62 20 L224 118 L224 197 L70 208 L30 214 Z" fill="url(#megaphone-tiny-belly)"/>
@@ -83,57 +174,31 @@
     fill="none" stroke="#D97706" stroke-width="15" stroke-linecap="round" opacity="1.000"/><path d="M-46.0 52.0 q-29.7 66.0 0 132.0"
     fill="none" stroke="#D97706" stroke-width="15" stroke-linecap="round" opacity="1.000"/></g>
   </g>
-    <text x="51" y="52.353" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="#2A1F10" xml:space="preserve"><tspan font-weight="700">Open to research</tspan></text><text x="22" y="71.35300000000001" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="#2A1F10" xml:space="preserve"><tspan font-weight="700">roles &amp; collaborations</tspan></text>
-    <line x1="22" x2="214" y1="82.35300000000001" y2="82.35300000000001" stroke="#8A7550" stroke-opacity="0.7" stroke-dasharray="3 4"/>
-    <circle cx="25" cy="99.17" r="2.4" fill="#B45309"/>
-    <text x="35" y="103.992" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="400">Research</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">roles</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">in</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">industry</tspan></text><text x="35" y="122.992" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="400">AI</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">labs</tspan></text>
-    <circle cx="25" cy="143.17" r="2.4" fill="#B45309"/>
-    <text x="35" y="147.99200000000002" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="400">Research</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">positions</tspan></text><text x="35" y="166.99200000000002" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="400">(intern/assistant)</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">at</tspan></text><text x="35" y="185.99200000000002" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="400">academic</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">labs</tspan></text>
-    <circle cx="25" cy="206.17" r="2.4" fill="#B45309"/>
-    <text x="35" y="210.99200000000002" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="400">Collaboration</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">on</tspan></text><text x="35" y="229.99200000000002" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="700" fill="#2A1F10">long-horizon</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">agents</tspan><tspan font-weight="400">,</tspan></text><text x="35" y="248.99200000000002" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="400">including</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">self-evolving</tspan></text><text x="35" y="267.992" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="700" fill="#2A1F10">agents</tspan><tspan font-weight="400">,</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">agent</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">memory</tspan><tspan font-weight="400">,</tspan></text><text x="35" y="286.992" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="700" fill="#2A1F10">AutoResearch</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">agents</tspan><tspan font-weight="400">,</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">and</tspan></text><text x="35" y="305.992" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="700" fill="#2A1F10">ML</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">Coding</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">for</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">a</tspan></text><text x="35" y="324.992" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="400">research</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">project/paper.</tspan></text>
-    <path d="M32.38 234.64 C53.08 233.84 84.12 233.69 118.62 234.14" fill="none" stroke="#B45309" stroke-width="2.1" stroke-linecap="round"
+    <text x="42" y="34.353" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="#2A1F10" xml:space="preserve"><tspan font-weight="700">Open to research roles</tspan></text><text x="13" y="53.353" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="#2A1F10" xml:space="preserve"><tspan font-weight="700">&amp; collaborations</tspan></text>
+    <circle cx="13.5" cy="74.18" r="2.3" fill="#B45309"/>
+    <text x="26" y="79" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="400">Research</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">roles</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">in</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">industry</tspan></text><text x="26" y="98" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="400">AI</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">labs</tspan></text>
+    <circle cx="13.5" cy="112.18" r="2.3" fill="#B45309"/>
+    <text x="26" y="117" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="400">Research</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">positions</tspan></text><text x="26" y="136" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="400">(intern/assistant)</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">at</tspan></text><text x="26" y="155" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="400">academic</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">labs</tspan></text>
+    <circle cx="13.5" cy="169.18" r="2.3" fill="#B45309"/>
+    <text x="26" y="174" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="400">Collaboration</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">on</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">long-horizon</tspan></text><text x="26" y="193" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="700" fill="#2A1F10">agents</tspan><tspan font-weight="400">,</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">including</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">self-evolving</tspan></text><text x="26" y="212" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="700" fill="#2A1F10">agents</tspan><tspan font-weight="400">,</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">agent</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">memory</tspan><tspan font-weight="400">,</tspan></text><text x="26" y="231" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="700" fill="#2A1F10">AutoResearch</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">agents</tspan><tspan font-weight="400">,</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">and</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">ML</tspan></text><text x="26" y="250" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="700" fill="#2A1F10">Coding</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">for</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">a</tspan></text><text x="26" y="269" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="400">research</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">project/paper.</tspan></text>
+    <path d="M127.05 178.65 C147.74 177.85 178.79 177.70 213.29 178.15" fill="none" stroke="#B45309" stroke-width="2.1" stroke-linecap="round"
     stroke-dasharray="87.10 174.20" stroke-dashoffset="0.00"
-    opacity="1.000" filter="url(#pen-tiny-0)"/><path d="M89.37 253.64 C110.23 252.84 141.53 252.69 176.30 253.14" fill="none" stroke="#B45309" stroke-width="2.1" stroke-linecap="round"
-    stroke-dasharray="87.80 175.61" stroke-dashoffset="0.00"
-    opacity="1.000" filter="url(#pen-tiny-1)"/><path d="M83.15 272.64 C106.68 271.84 141.97 271.69 181.18 272.14" fill="none" stroke="#B45309" stroke-width="2.1" stroke-linecap="round"
-    stroke-dasharray="99.01 198.01" stroke-dashoffset="0.00"
-    opacity="1.000" filter="url(#pen-tiny-2)"/><path d="M32.18 291.64 C55.37 290.84 90.16 290.69 128.82 291.14" fill="none" stroke="#B45309" stroke-width="2.1" stroke-linecap="round"
-    stroke-dasharray="97.61 195.21" stroke-dashoffset="0.00"
-    opacity="1.000" filter="url(#pen-tiny-3)"/><path d="M32.62 310.64 C50.32 309.84 76.88 309.69 106.38 310.14" fill="none" stroke="#B45309" stroke-width="2.1" stroke-linecap="round"
-    stroke-dasharray="74.50 149.00" stroke-dashoffset="0.00"
+    opacity="1.000" filter="url(#pen-tiny-0)"/><path d="M133.05 197.65 C153.74 196.85 184.79 196.70 219.29 197.15" fill="none" stroke="#B45309" stroke-width="2.1" stroke-linecap="round"
+    stroke-dasharray="87.10 174.20" stroke-dashoffset="0.00"
+    opacity="1.000" filter="url(#pen-tiny-1)"/><path d="M74.47 216.65 C98.17 215.85 133.71 215.70 173.19 216.15" fill="none" stroke="#B45309" stroke-width="2.1" stroke-linecap="round"
+    stroke-dasharray="99.71 199.41" stroke-dashoffset="0.00"
+    opacity="1.000" filter="url(#pen-tiny-2)"/><path d="M23.19 235.65 C46.30 234.85 80.96 234.70 119.48 235.15" fill="none" stroke="#B45309" stroke-width="2.1" stroke-linecap="round"
+    stroke-dasharray="97.26 194.51" stroke-dashoffset="0.00"
+    opacity="1.000" filter="url(#pen-tiny-3)"/><path d="M197.60 235.65 C203.07 234.85 211.28 234.70 220.40 235.15" fill="none" stroke="#B45309" stroke-width="2.1" stroke-linecap="round"
+    stroke-dasharray="23.03 46.06" stroke-dashoffset="0.00"
+    opacity="1.000" filter="url(#pen-tiny-4)"/><path d="M24.09 254.65 C35.97 253.85 53.78 253.70 73.58 254.15" fill="none" stroke="#B45309" stroke-width="2.1" stroke-linecap="round"
+    stroke-dasharray="49.99 99.98" stroke-dashoffset="0.00"
     opacity="1.000" filter="url(#pen-tiny-4)"/>
-  <rect x="22" y="339" width="192"
-    height="32" rx="5" fill="#B45309"
-    />
-  <text x="118" y="359.86" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
-    font-size="13.5" font-weight="600" fill="#FFFAF0">Research CV</text>
-  <rect x="22.75" y="379.75" width="190.5"
-    height="30.5" rx="5" fill="none"
-    stroke="#B45309" stroke-width="1.5"/>
-  <text x="118" y="399.86" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
-    font-size="13.5" font-weight="600" fill="#B45309">Email me</text>
-    <g transform="translate(23.799999999999997 28) rotate(-36)">
-    <clipPath id="tape-l-tiny"><path d="M-23.00 -8.00 L-24.60 -4.80 L-23.00 -1.60 L-24.60 1.60 L-23.00 4.80 L-24.60 8.00 L24.60 8.00 L23.00 4.80 L24.60 1.60 L23.00 -1.60 L24.60 -4.80 L23.00 -8.00 Z"/></clipPath>
-    <path d="M-23.00 -8.00 L-24.60 -4.80 L-23.00 -1.60 L-24.60 1.60 L-23.00 4.80 L-24.60 8.00 L24.60 8.00 L23.00 4.80 L24.60 1.60 L23.00 -1.60 L24.60 -4.80 L23.00 -8.00 Z" fill="#F8B46A" opacity="0.820"/>
-    <g clip-path="url(#tape-l-tiny)" opacity="0.22" stroke="#E3832B" stroke-width="0.6">
-      <path d="M-23 -5.8H23M-23 5.8H23"/>
-    </g>
-    <path d="M-23.00 -8.00 L-24.60 -4.80 L-23.00 -1.60 L-24.60 1.60 L-23.00 4.80 L-24.60 8.00 L24.60 8.00 L23.00 4.80 L24.60 1.60 L23.00 -1.60 L24.60 -4.80 L23.00 -8.00 Z" fill="none" stroke="#E3832B" stroke-width="0.6" opacity="0.45"/>
-  </g>
-    <g transform="translate(212.2 28) rotate(34)">
-    <clipPath id="tape-r-tiny"><path d="M-23.00 -8.00 L-24.60 -4.80 L-23.00 -1.60 L-24.60 1.60 L-23.00 4.80 L-24.60 8.00 L24.60 8.00 L23.00 4.80 L24.60 1.60 L23.00 -1.60 L24.60 -4.80 L23.00 -8.00 Z"/></clipPath>
-    <path d="M-23.00 -8.00 L-24.60 -4.80 L-23.00 -1.60 L-24.60 1.60 L-23.00 4.80 L-24.60 8.00 L24.60 8.00 L23.00 4.80 L24.60 1.60 L23.00 -1.60 L24.60 -4.80 L23.00 -8.00 Z" fill="#F8B46A" opacity="0.820"/>
-    <g clip-path="url(#tape-r-tiny)" opacity="0.22" stroke="#E3832B" stroke-width="0.6">
-      <path d="M-23 -5.8H23M-23 5.8H23"/>
-    </g>
-    <path d="M-23.00 -8.00 L-24.60 -4.80 L-23.00 -1.60 L-24.60 1.60 L-23.00 4.80 L-24.60 8.00 L24.60 8.00 L23.00 4.80 L24.60 1.60 L23.00 -1.60 L24.60 -4.80 L23.00 -8.00 Z" fill="none" stroke="#E3832B" stroke-width="0.6" opacity="0.45"/>
-  </g>
-    <g transform="translate(214.96 438) rotate(-24)">
-    <clipPath id="tape-c-tiny"><path d="M-18.40 -6.40 L-20.00 -3.84 L-18.40 -1.28 L-20.00 1.28 L-18.40 3.84 L-20.00 6.40 L20.00 6.40 L18.40 3.84 L20.00 1.28 L18.40 -1.28 L20.00 -3.84 L18.40 -6.40 Z"/></clipPath>
-    <path d="M-18.40 -6.40 L-20.00 -3.84 L-18.40 -1.28 L-20.00 1.28 L-18.40 3.84 L-20.00 6.40 L20.00 6.40 L18.40 3.84 L20.00 1.28 L18.40 -1.28 L20.00 -3.84 L18.40 -6.40 Z" fill="#F8B46A" opacity="0.820"/>
-    <g clip-path="url(#tape-c-tiny)" opacity="0.22" stroke="#E3832B" stroke-width="0.6">
-      <path d="M-18.400000000000002 -4.2H18.400000000000002M-18.400000000000002 4.2H18.400000000000002"/>
-    </g>
-    <path d="M-18.40 -6.40 L-20.00 -3.84 L-18.40 -1.28 L-20.00 1.28 L-18.40 3.84 L-20.00 6.40 L20.00 6.40 L18.40 3.84 L20.00 1.28 L18.40 -1.28 L20.00 -3.84 L18.40 -6.40 Z" fill="none" stroke="#E3832B" stroke-width="0.6" opacity="0.45"/>
-  </g>
+    <text x="118" y="309.86" text-anchor="middle"
+    font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#FFFAF0">Research CV</text>
+    <rect x="12.75" y="331.75" width="210.5" height="26.5" rx="5" fill="none" stroke="#B45309" stroke-width="1.5"/>
+    <text x="118" y="349.86" text-anchor="middle"
+    font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#B45309">Email me</text>
+    <line x1="8" x2="228" y1="285" y2="285" stroke="#8A7550" stroke-opacity="0.75" stroke-dasharray="2 3"/>
+    <line x1="8" x2="228" y1="325" y2="325" stroke="#8A7550" stroke-opacity="0.75" stroke-dasharray="2 3"/>
   </g></svg>
