@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="30" viewBox="0 0 28 30">
+  <title>Nov 2</title>
+    <defs>
+    <linearGradient id="fc-roll" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e4e7eb"/><stop offset="0.17" stop-color="#e2e5e9"/><stop offset="0.33" stop-color="#dcdfe3"/><stop offset="0.5" stop-color="#d1d4d7"/><stop offset="0.67" stop-color="#c0c3c6"/><stop offset="0.83" stop-color="#a5a7aa"/><stop offset="1" stop-color="#575859"/></linearGradient>
+    <linearGradient id="fc-cast" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#000" stop-opacity="0.3"/><stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+    <g id="fc-f0">
+    <rect x="3.5" y="3" width="24" height="24" rx="2.5" fill="#FFFFFF" stroke="#8C959F" stroke-width="0.75"/>
+    <path d="M3.5 13 V5.5 Q3.5 3 6 3 H25 Q27.5 3 27.5 5.5 V13 Z" fill="#B45309"/>
+    <circle cx="9" cy="5.3" r="1.1" fill="#7C2D12"/><circle cx="22" cy="5.3" r="1.1" fill="#7C2D12"/>
+    <text x="15.5" y="11.7" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="7" font-weight="700" letter-spacing="0.5" fill="#FFFFFF">OCT</text>
+    <text x="15.5" y="25" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#1F2328">30</text>
+    </g>
+    <g id="fc-f1">
+    <rect x="3.5" y="3" width="24" height="24" rx="2.5" fill="#FFFFFF" stroke="#8C959F" stroke-width="0.75"/>
+    <path d="M3.5 13 V5.5 Q3.5 3 6 3 H25 Q27.5 3 27.5 5.5 V13 Z" fill="#B45309"/>
+    <circle cx="9" cy="5.3" r="1.1" fill="#7C2D12"/><circle cx="22" cy="5.3" r="1.1" fill="#7C2D12"/>
+    <text x="15.5" y="11.7" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="7" font-weight="700" letter-spacing="0.5" fill="#FFFFFF">OCT</text>
+    <text x="15.5" y="25" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#1F2328">31</text>
+    </g>
+    <g id="fc-f2">
+    <rect x="3.5" y="3" width="24" height="24" rx="2.5" fill="#FFFFFF" stroke="#8C959F" stroke-width="0.75"/>
+    <path d="M3.5 13 V5.5 Q3.5 3 6 3 H25 Q27.5 3 27.5 5.5 V13 Z" fill="#B45309"/>
+    <circle cx="9" cy="5.3" r="1.1" fill="#7C2D12"/><circle cx="22" cy="5.3" r="1.1" fill="#7C2D12"/>
+    <text x="15.5" y="11.7" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="7" font-weight="700" letter-spacing="0.5" fill="#FFFFFF">NOV</text>
+    <text x="15.5" y="25" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#1F2328">1</text>
+    </g>
+    <clipPath id="fc-k0"><rect x="0" y="2.7" width="28" height="2.1"/></clipPath><clipPath id="fc-k1"><rect x="0" y="4.2" width="28" height="2.1"/></clipPath><clipPath id="fc-k2"><rect x="0" y="5.7" width="28" height="2.1"/></clipPath><clipPath id="fc-k3"><rect x="0" y="7.2" width="28" height="2.1"/></clipPath><clipPath id="fc-k4"><rect x="0" y="8.7" width="28" height="2.1"/></clipPath><clipPath id="fc-k5"><rect x="0" y="10.2" width="28" height="2.1"/></clipPath><clipPath id="fc-k6"><rect x="0" y="11.7" width="28" height="2.1"/></clipPath><clipPath id="fc-k7"><rect x="0" y="13.2" width="28" height="2.1"/></clipPath><clipPath id="fc-k8"><rect x="0" y="14.7" width="28" height="2.1"/></clipPath><clipPath id="fc-k9"><rect x="0" y="16.2" width="28" height="2.1"/></clipPath><clipPath id="fc-k10"><rect x="0" y="17.7" width="28" height="2.1"/></clipPath><clipPath id="fc-k11"><rect x="0" y="19.2" width="28" height="2.1"/></clipPath><clipPath id="fc-k12"><rect x="0" y="20.7" width="28" height="2.1"/></clipPath><clipPath id="fc-k13"><rect x="0" y="22.2" width="28" height="2.1"/></clipPath><clipPath id="fc-k14"><rect x="0" y="23.7" width="28" height="2.1"/></clipPath><clipPath id="fc-k15"><rect x="0" y="25.2" width="28" height="2.1"/></clipPath>
+    <clipPath id="fc-over"><rect x="0" y="1" width="28" height="30"/></clipPath>
+  </defs>
+  <rect x="5" y="4" width="21" height="25.5" rx="2.5" fill="#E4E7EB" stroke="#8C959F" stroke-width="0.75"/>
+  <rect x="4.25" y="4" width="22.5" height="24.5" rx="2.5" fill="#E4E7EB" stroke="#8C959F" stroke-width="0.75"/>
+  <g class="today">
+    <rect x="3.5" y="3" width="24" height="24" rx="2.5" fill="#FFFFFF" stroke="#8C959F" stroke-width="0.75"/>
+    <path d="M3.5 13 V5.5 Q3.5 3 6 3 H25 Q27.5 3 27.5 5.5 V13 Z" fill="#B45309"/>
+    <circle cx="9" cy="5.3" r="1.1" fill="#7C2D12"/><circle cx="22" cy="5.3" r="1.1" fill="#7C2D12"/>
+    <text x="15.5" y="11.7" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="7" font-weight="700" letter-spacing="0.5" fill="#FFFFFF">NOV</text>
+    <text class="arrive" x="15.5" y="25" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#1F2328">2</text>
+    <rect class="cast w2" x="3.5" y="0" width="24" opacity="0" height="5" fill="url(#fc-cast)"/>
+  </g>
+  <g class="page p2" opacity="0" clip-path="url(#fc-over)">
+    <rect class="cast w1" x="3.5" y="0" width="24" opacity="0" height="5" fill="url(#fc-cast)"/>
+    <g class="front" clip-path="url(#fc-k0)" style="animation:s2-0 8000ms linear -2110ms infinite"><use href="#fc-f2"/></g>
+    <g class="front" clip-path="url(#fc-k1)" style="animation:s2-1 8000ms linear -2110ms infinite"><use href="#fc-f2"/></g>
+    <g class="front" clip-path="url(#fc-k2)" style="animation:s2-2 8000ms linear -2110ms infinite"><use href="#fc-f2"/></g>
+    <g class="front" clip-path="url(#fc-k3)" style="animation:s2-3 8000ms linear -2110ms infinite"><use href="#fc-f2"/></g>
+    <g class="front" clip-path="url(#fc-k4)" style="animation:s2-4 8000ms linear -2110ms infinite"><use href="#fc-f2"/></g>
+    <g class="front" clip-path="url(#fc-k5)" style="animation:s2-5 8000ms linear -2110ms infinite"><use href="#fc-f2"/></g>
+    <g class="front" clip-path="url(#fc-k6)" style="animation:s2-6 8000ms linear -2110ms infinite"><use href="#fc-f2"/></g>
+    <g class="front" clip-path="url(#fc-k7)" style="animation:s2-7 8000ms linear -2110ms infinite"><use href="#fc-f2"/></g>
+    <g class="front" clip-path="url(#fc-k8)" style="animation:s2-8 8000ms linear -2110ms infinite"><use href="#fc-f2"/></g>
+    <g class="front" clip-path="url(#fc-k9)" style="animation:s2-9 8000ms linear -2110ms infinite"><use href="#fc-f2"/></g>
+    <g class="front" clip-path="url(#fc-k10)" style="animation:s2-10 8000ms linear -2110ms infinite"><use href="#fc-f2"/></g>
+    <g class="front" clip-path="url(#fc-k11)" style="animation:s2-11 8000ms linear -2110ms infinite"><use href="#fc-f2"/></g>
+    <g class="front" clip-path="url(#fc-k12)" style="animation:s2-12 8000ms linear -2110ms infinite"><use href="#fc-f2"/></g>
+    <g class="front" clip-path="url(#fc-k13)" style="animation:s2-13 8000ms linear -2110ms infinite"><use href="#fc-f2"/></g>
+    <g class="front" clip-path="url(#fc-k14)" style="animation:s2-14 8000ms linear -2110ms infinite"><use href="#fc-f2"/></g>
+    <g class="front" clip-path="url(#fc-k15)" style="animation:s2-15 8000ms linear -2110ms infinite"><use href="#fc-f2"/></g>
+    <rect class="back b2" x="3.5" y="0" width="24" height="1" opacity="0" fill="#E4E7EB"/>
+    <rect class="roll r2" x="3.5" y="0" width="24" height="1" opacity="0" fill="url(#fc-roll)"/>
+  </g>
+  <g class="page p1" opacity="0" clip-path="url(#fc-over)">
+    <rect class="cast w0" x="3.5" y="0" width="24" opacity="0" height="5" fill="url(#fc-cast)"/>
+    <g class="front" clip-path="url(#fc-k0)" style="animation:s1-0 8000ms linear -2110ms infinite"><use href="#fc-f1"/></g>
+    <g class="front" clip-path="url(#fc-k1)" style="animation:s1-1 8000ms linear -2110ms infinite"><use href="#fc-f1"/></g>
+    <g class="front" clip-path="url(#fc-k2)" style="animation:s1-2 8000ms linear -2110ms infinite"><use href="#fc-f1"/></g>
+    <g class="front" clip-path="url(#fc-k3)" style="animation:s1-3 8000ms linear -2110ms infinite"><use href="#fc-f1"/></g>
+    <g class="front" clip-path="url(#fc-k4)" style="animation:s1-4 8000ms linear -2110ms infinite"><use href="#fc-f1"/></g>
+    <g class="front" clip-path="url(#fc-k5)" style="animation:s1-5 8000ms linear -2110ms infinite"><use href="#fc-f1"/></g>
+    <g class="front" clip-path="url(#fc-k6)" style="animation:s1-6 8000ms linear -2110ms infinite"><use href="#fc-f1"/></g>
+    <g class="front" clip-path="url(#fc-k7)" style="animation:s1-7 8000ms linear -2110ms infinite"><use href="#fc-f1"/></g>
+    <g class="front" clip-path="url(#fc-k8)" style="animation:s1-8 8000ms linear -2110ms infinite"><use href="#fc-f1"/></g>
+    <g class="front" clip-path="url(#fc-k9)" style="animation:s1-9 8000ms linear -2110ms infinite"><use href="#fc-f1"/></g>
+    <g class="front" clip-path="url(#fc-k10)" style="animation:s1-10 8000ms linear -2110ms infinite"><use href="#fc-f1"/></g>
+    <g class="front" clip-path="url(#fc-k11)" style="animation:s1-11 8000ms linear -2110ms infinite"><use href="#fc-f1"/></g>
+    <g class="front" clip-path="url(#fc-k12)" style="animation:s1-12 8000ms linear -2110ms infinite"><use href="#fc-f1"/></g>
+    <g class="front" clip-path="url(#fc-k13)" style="animation:s1-13 8000ms linear -2110ms infinite"><use href="#fc-f1"/></g>
+    <g class="front" clip-path="url(#fc-k14)" style="animation:s1-14 8000ms linear -2110ms infinite"><use href="#fc-f1"/></g>
+    <g class="front" clip-path="url(#fc-k15)" style="animation:s1-15 8000ms linear -2110ms infinite"><use href="#fc-f1"/></g>
+    <rect class="back b1" x="3.5" y="0" width="24" height="1" opacity="0" fill="#E4E7EB"/>
+    <rect class="roll r1" x="3.5" y="0" width="24" height="1" opacity="0" fill="url(#fc-roll)"/>
+  </g>
+  <g class="page p0" opacity="0" clip-path="url(#fc-over)">
+    <g class="front" clip-path="url(#fc-k0)" style="animation:s0-0 8000ms linear -2110ms infinite"><use href="#fc-f0"/></g>
+    <g class="front" clip-path="url(#fc-k1)" style="animation:s0-1 8000ms linear -2110ms infinite"><use href="#fc-f0"/></g>
+    <g class="front" clip-path="url(#fc-k2)" style="animation:s0-2 8000ms linear -2110ms infinite"><use href="#fc-f0"/></g>
+    <g class="front" clip-path="url(#fc-k3)" style="animation:s0-3 8000ms linear -2110ms infinite"><use href="#fc-f0"/></g>
+    <g class="front" clip-path="url(#fc-k4)" style="animation:s0-4 8000ms linear -2110ms infinite"><use href="#fc-f0"/></g>
+    <g class="front" clip-path="url(#fc-k5)" style="animation:s0-5 8000ms linear -2110ms infinite"><use href="#fc-f0"/></g>
+    <g class="front" clip-path="url(#fc-k6)" style="animation:s0-6 8000ms linear -2110ms infinite"><use href="#fc-f0"/></g>
+    <g class="front" clip-path="url(#fc-k7)" style="animation:s0-7 8000ms linear -2110ms infinite"><use href="#fc-f0"/></g>
+    <g class="front" clip-path="url(#fc-k8)" style="animation:s0-8 8000ms linear -2110ms infinite"><use href="#fc-f0"/></g>
+    <g class="front" clip-path="url(#fc-k9)" style="animation:s0-9 8000ms linear -2110ms infinite"><use href="#fc-f0"/></g>
+    <g class="front" clip-path="url(#fc-k10)" style="animation:s0-10 8000ms linear -2110ms infinite"><use href="#fc-f0"/></g>
+    <g class="front" clip-path="url(#fc-k11)" style="animation:s0-11 8000ms linear -2110ms infinite"><use href="#fc-f0"/></g>
+    <g class="front" clip-path="url(#fc-k12)" style="animation:s0-12 8000ms linear -2110ms infinite"><use href="#fc-f0"/></g>
+    <g class="front" clip-path="url(#fc-k13)" style="animation:s0-13 8000ms linear -2110ms infinite"><use href="#fc-f0"/></g>
+    <g class="front" clip-path="url(#fc-k14)" style="animation:s0-14 8000ms linear -2110ms infinite"><use href="#fc-f0"/></g>
+    <g class="front" clip-path="url(#fc-k15)" style="animation:s0-15 8000ms linear -2110ms infinite"><use href="#fc-f0"/></g>
+    <rect class="back b0" x="3.5" y="0" width="24" height="1" opacity="0" fill="#E4E7EB"/>
+    <rect class="roll r0" x="3.5" y="0" width="24" height="1" opacity="0" fill="url(#fc-roll)"/>
+  </g>
+  <rect x="8.1" y="0.4" width="1.8" height="5.2" rx="0.9" fill="#6E7781"/><rect x="21.1" y="0.4" width="1.8" height="5.2" rx="0.9" fill="#6E7781"/>
+</svg>
