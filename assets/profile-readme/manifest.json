@@ -108,184 +108,265 @@
     "bytes": 3465
   },
   {
-    "name": "research-notice-wide-head",
-    "file": "research-notice/research-notice-wide-head-5e6d22fe2891.webp",
-    "poster": "research-notice/research-notice-wide-head-5e6d22fe2891.png",
-    "width": 542,
-    "height": 81,
-    "duration": 5600,
-    "bytes": 211398
-  },
-  {
-    "name": "research-notice-wide-base",
-    "file": "research-notice/research-notice-wide-base-6d552d87f26e.webp",
-    "poster": "research-notice/research-notice-wide-base-6d552d87f26e.png",
-    "width": 542,
-    "height": 53,
-    "duration": 5600,
-    "bytes": 166642
-  },
-  {
-    "name": "research-notice-wide-list",
-    "file": "research-notice/research-notice-wide-list-6901321b714d.png",
-    "poster": "research-notice/research-notice-wide-list-6901321b714d.png",
-    "width": 542,
-    "height": 59,
-    "duration": 0,
-    "bytes": 41790
-  },
-  {
-    "name": "research-notice-wide-more",
-    "file": "research-notice/research-notice-wide-more-c0a8d33235d5.webp",
-    "poster": "research-notice/research-notice-wide-more-c0a8d33235d5.png",
-    "width": 542,
-    "height": 75,
-    "duration": 5600,
-    "bytes": 73040
-  },
-  {
-    "name": "research-notice-wide-cv",
-    "file": "research-notice/research-notice-wide-cv-dba1b506e8d5.png",
-    "poster": "research-notice/research-notice-wide-cv-dba1b506e8d5.png",
-    "width": 161,
-    "height": 45,
-    "duration": 0,
-    "bytes": 9534
-  },
-  {
-    "name": "research-notice-wide-email",
-    "file": "research-notice/research-notice-wide-email-b37f71368650.png",
-    "poster": "research-notice/research-notice-wide-email-b37f71368650.png",
-    "width": 100,
-    "height": 45,
-    "duration": 0,
-    "bytes": 7042
-  },
-  {
-    "name": "research-notice-wide-rest",
-    "file": "research-notice/research-notice-wide-rest-a46ff1afb8b6.png",
-    "poster": "research-notice/research-notice-wide-rest-a46ff1afb8b6.png",
-    "width": 281,
-    "height": 45,
-    "duration": 0,
-    "bytes": 4341
-  },
-  {
-    "name": "research-notice-mid-head",
-    "file": "research-notice/research-notice-mid-head-69992a0c9f94.webp",
-    "poster": "research-notice/research-notice-mid-head-69992a0c9f94.png",
-    "width": 362,
-    "height": 98,
-    "duration": 5600,
-    "bytes": 193614
-  },
-  {
-    "name": "research-notice-mid-base",
-    "file": "research-notice/research-notice-mid-base-d331e2d9a84d.webp",
-    "poster": "research-notice/research-notice-mid-base-d331e2d9a84d.png",
-    "width": 362,
-    "height": 50,
-    "duration": 5600,
-    "bytes": 162580
-  },
-  {
-    "name": "research-notice-mid-list",
-    "file": "research-notice/research-notice-mid-list-e10aebb7c196.png",
-    "poster": "research-notice/research-notice-mid-list-e10aebb7c196.png",
-    "width": 362,
-    "height": 80,
-    "duration": 0,
-    "bytes": 42514
-  },
-  {
-    "name": "research-notice-mid-more",
-    "file": "research-notice/research-notice-mid-more-62f9690d464a.webp",
-    "poster": "research-notice/research-notice-mid-more-62f9690d464a.png",
-    "width": 362,
+    "name": "research-notice-xl-head",
+    "file": "research-notice/research-notice-xl-head-e5f2976fb7e7.webp",
+    "poster": "research-notice/research-notice-xl-head-e5f2976fb7e7.png",
+    "width": 551,
     "height": 92,
     "duration": 5600,
-    "bytes": 93532
+    "bytes": 131208
   },
   {
-    "name": "research-notice-mid-cv",
-    "file": "research-notice/research-notice-mid-cv-87b39001743e.png",
-    "poster": "research-notice/research-notice-mid-cv-87b39001743e.png",
-    "width": 155,
-    "height": 45,
+    "name": "research-notice-xl-cv",
+    "file": "research-notice/research-notice-xl-cv-8a4a86b0fad5.png",
+    "poster": "research-notice/research-notice-xl-cv-8a4a86b0fad5.png",
+    "width": 118,
+    "height": 92,
     "duration": 0,
-    "bytes": 9593
+    "bytes": 9110
   },
   {
-    "name": "research-notice-mid-email",
-    "file": "research-notice/research-notice-mid-email-2d4b80f100c8.png",
-    "poster": "research-notice/research-notice-mid-email-2d4b80f100c8.png",
-    "width": 100,
-    "height": 45,
+    "name": "research-notice-xl-email",
+    "file": "research-notice/research-notice-xl-email-dd88ee133052.png",
+    "poster": "research-notice/research-notice-xl-email-dd88ee133052.png",
+    "width": 95,
+    "height": 92,
     "duration": 0,
-    "bytes": 7056
+    "bytes": 8154
   },
   {
-    "name": "research-notice-mid-rest",
-    "file": "research-notice/research-notice-mid-rest-e9962718c875.png",
-    "poster": "research-notice/research-notice-mid-rest-e9962718c875.png",
-    "width": 107,
-    "height": 45,
-    "duration": 0,
-    "bytes": 2821
-  },
-  {
-    "name": "research-notice-board-head",
-    "file": "research-notice/research-notice-board-head-e576ee7d0052.webp",
-    "poster": "research-notice/research-notice-board-head-e576ee7d0052.png",
-    "width": 362,
-    "height": 91,
+    "name": "research-notice-xl-corner",
+    "file": "research-notice/research-notice-xl-corner-ac8314a31dfc.webp",
+    "poster": "research-notice/research-notice-xl-corner-ac8314a31dfc.png",
+    "width": 80,
+    "height": 92,
     "duration": 5600,
-    "bytes": 99524
+    "bytes": 88984
   },
   {
-    "name": "research-notice-board-list",
-    "file": "research-notice/research-notice-board-list-360bcda2aed4.png",
-    "poster": "research-notice/research-notice-board-list-360bcda2aed4.png",
-    "width": 362,
-    "height": 115,
+    "name": "research-notice-xl-list",
+    "file": "research-notice/research-notice-xl-list-4d710ba343a8.png",
+    "poster": "research-notice/research-notice-xl-list-4d710ba343a8.png",
+    "width": 844,
+    "height": 29,
     "duration": 0,
-    "bytes": 77257
+    "bytes": 19529
   },
   {
-    "name": "research-notice-board-more",
-    "file": "research-notice/research-notice-board-more-a97ddcb88cf2.webp",
-    "poster": "research-notice/research-notice-board-more-a97ddcb88cf2.png",
-    "width": 362,
-    "height": 122,
+    "name": "research-notice-xl-list2",
+    "file": "research-notice/research-notice-xl-list2-2d1818825b87.png",
+    "poster": "research-notice/research-notice-xl-list2-2d1818825b87.png",
+    "width": 844,
+    "height": 26,
+    "duration": 0,
+    "bytes": 25150
+  },
+  {
+    "name": "research-notice-xl-more",
+    "file": "research-notice/research-notice-xl-more-0598cf54373c.webp",
+    "poster": "research-notice/research-notice-xl-more-0598cf54373c.png",
+    "width": 844,
+    "height": 49,
     "duration": 5600,
-    "bytes": 75730
+    "bytes": 87026
   },
   {
-    "name": "research-notice-board-cv",
-    "file": "research-notice/research-notice-board-cv-69da5c3bd2fa.png",
-    "poster": "research-notice/research-notice-board-cv-69da5c3bd2fa.png",
-    "width": 181,
-    "height": 49,
+    "name": "research-notice-xl-base",
+    "file": "research-notice/research-notice-xl-base-3803ce30af02.png",
+    "poster": "research-notice/research-notice-xl-base-3803ce30af02.png",
+    "width": 844,
+    "height": 25,
     "duration": 0,
-    "bytes": 13908
+    "bytes": 10606
   },
   {
-    "name": "research-notice-board-email",
-    "file": "research-notice/research-notice-board-email-ca5bc82f085b.png",
-    "poster": "research-notice/research-notice-board-email-ca5bc82f085b.png",
-    "width": 181,
-    "height": 49,
+    "name": "research-notice-l-head",
+    "file": "research-notice/research-notice-l-head-8e2421482b5b.webp",
+    "poster": "research-notice/research-notice-l-head-8e2421482b5b.png",
+    "width": 694,
+    "height": 79,
+    "duration": 5600,
+    "bytes": 212052
+  },
+  {
+    "name": "research-notice-l-list",
+    "file": "research-notice/research-notice-l-list-8f5b51afdb85.png",
+    "poster": "research-notice/research-notice-l-list-8f5b51afdb85.png",
+    "width": 694,
+    "height": 55,
     "duration": 0,
-    "bytes": 14829
+    "bytes": 42357
   },
   {
-    "name": "research-notice-board-base",
-    "file": "research-notice/research-notice-board-base-1ca8f7327f27.png",
-    "poster": "research-notice/research-notice-board-base-1ca8f7327f27.png",
+    "name": "research-notice-l-more",
+    "file": "research-notice/research-notice-l-more-3b5e1f4d7763.webp",
+    "poster": "research-notice/research-notice-l-more-3b5e1f4d7763.png",
+    "width": 694,
+    "height": 48,
+    "duration": 5600,
+    "bytes": 71784
+  },
+  {
+    "name": "research-notice-l-cv",
+    "file": "research-notice/research-notice-l-cv-641d1723c240.png",
+    "poster": "research-notice/research-notice-l-cv-641d1723c240.png",
+    "width": 150,
+    "height": 41,
+    "duration": 0,
+    "bytes": 8593
+  },
+  {
+    "name": "research-notice-l-email",
+    "file": "research-notice/research-notice-l-email-8fc2e934a3e3.png",
+    "poster": "research-notice/research-notice-l-email-8fc2e934a3e3.png",
+    "width": 96,
+    "height": 41,
+    "duration": 0,
+    "bytes": 6242
+  },
+  {
+    "name": "research-notice-l-rest",
+    "file": "research-notice/research-notice-l-rest-6c660aa40b81.png",
+    "poster": "research-notice/research-notice-l-rest-6c660aa40b81.png",
+    "width": 448,
+    "height": 41,
+    "duration": 0,
+    "bytes": 4961
+  },
+  {
+    "name": "research-notice-l-base",
+    "file": "research-notice/research-notice-l-base-9fd7f62d1663.png",
+    "poster": "research-notice/research-notice-l-base-9fd7f62d1663.png",
+    "width": 694,
+    "height": 30,
+    "duration": 0,
+    "bytes": 10379
+  },
+  {
+    "name": "research-notice-m-head",
+    "file": "research-notice/research-notice-m-head-735a77dac5ba.webp",
+    "poster": "research-notice/research-notice-m-head-735a77dac5ba.png",
+    "width": 542,
+    "height": 73,
+    "duration": 5600,
+    "bytes": 194112
+  },
+  {
+    "name": "research-notice-m-list",
+    "file": "research-notice/research-notice-m-list-5589ada5b1c7.png",
+    "poster": "research-notice/research-notice-m-list-5589ada5b1c7.png",
+    "width": 542,
+    "height": 53,
+    "duration": 0,
+    "bytes": 38038
+  },
+  {
+    "name": "research-notice-m-more",
+    "file": "research-notice/research-notice-m-more-ebc900a7a0fa.webp",
+    "poster": "research-notice/research-notice-m-more-ebc900a7a0fa.png",
+    "width": 542,
+    "height": 64,
+    "duration": 5600,
+    "bytes": 65972
+  },
+  {
+    "name": "research-notice-m-cv",
+    "file": "research-notice/research-notice-m-cv-3f7326e075ee.png",
+    "poster": "research-notice/research-notice-m-cv-3f7326e075ee.png",
+    "width": 147,
+    "height": 43,
+    "duration": 0,
+    "bytes": 8585
+  },
+  {
+    "name": "research-notice-m-email",
+    "file": "research-notice/research-notice-m-email-7e82ca6af72f.png",
+    "poster": "research-notice/research-notice-m-email-7e82ca6af72f.png",
+    "width": 96,
+    "height": 43,
+    "duration": 0,
+    "bytes": 6302
+  },
+  {
+    "name": "research-notice-m-rest",
+    "file": "research-notice/research-notice-m-rest-6b8d1bc6b28a.png",
+    "poster": "research-notice/research-notice-m-rest-6b8d1bc6b28a.png",
+    "width": 299,
+    "height": 43,
+    "duration": 0,
+    "bytes": 4068
+  },
+  {
+    "name": "research-notice-m-base",
+    "file": "research-notice/research-notice-m-base-815bd9a43bf8.png",
+    "poster": "research-notice/research-notice-m-base-815bd9a43bf8.png",
+    "width": 542,
+    "height": 28,
+    "duration": 0,
+    "bytes": 8634
+  },
+  {
+    "name": "research-notice-s-head",
+    "file": "research-notice/research-notice-s-head-cbca45a3ae92.webp",
+    "poster": "research-notice/research-notice-s-head-cbca45a3ae92.png",
+    "width": 362,
+    "height": 88,
+    "duration": 5600,
+    "bytes": 184352
+  },
+  {
+    "name": "research-notice-s-list",
+    "file": "research-notice/research-notice-s-list-408e4dae9f3e.png",
+    "poster": "research-notice/research-notice-s-list-408e4dae9f3e.png",
+    "width": 362,
+    "height": 72,
+    "duration": 0,
+    "bytes": 38966
+  },
+  {
+    "name": "research-notice-s-more",
+    "file": "research-notice/research-notice-s-more-6f016206300a.webp",
+    "poster": "research-notice/research-notice-s-more-6f016206300a.png",
+    "width": 362,
+    "height": 83,
+    "duration": 5600,
+    "bytes": 87592
+  },
+  {
+    "name": "research-notice-s-cv",
+    "file": "research-notice/research-notice-s-cv-5c18233eec44.png",
+    "poster": "research-notice/research-notice-s-cv-5c18233eec44.png",
+    "width": 144,
+    "height": 42,
+    "duration": 0,
+    "bytes": 8614
+  },
+  {
+    "name": "research-notice-s-email",
+    "file": "research-notice/research-notice-s-email-aa50c7c515eb.png",
+    "poster": "research-notice/research-notice-s-email-aa50c7c515eb.png",
+    "width": 96,
+    "height": 42,
+    "duration": 0,
+    "bytes": 6360
+  },
+  {
+    "name": "research-notice-s-rest",
+    "file": "research-notice/research-notice-s-rest-2021f9a00f56.png",
+    "poster": "research-notice/research-notice-s-rest-2021f9a00f56.png",
+    "width": 122,
+    "height": 42,
+    "duration": 0,
+    "bytes": 2458
+  },
+  {
+    "name": "research-notice-s-base",
+    "file": "research-notice/research-notice-s-base-5163a4d23d5a.png",
+    "poster": "research-notice/research-notice-s-base-5163a4d23d5a.png",
     "width": 362,
     "height": 26,
     "duration": 0,
-    "bytes": 1819
+    "bytes": 6537
   },
   {
     "name": "research-notice-narrow-head",

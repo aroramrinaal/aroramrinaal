@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="844" height="29" viewBox="0 92 844 29">
+  <defs>
+    <filter id="ribbon-shadow-xl" x="-10%" y="-20%" width="120%" height="160%"><feGaussianBlur stdDeviation="5"/></filter>
+  <filter id="pen-xl-0" x="-5%" y="-200%" width="110%" height="500%">
+    <feTurbulence type="fractalNoise" baseFrequency="0.06" numOctaves="2" seed="3"/>
+    <feDisplacementMap in="SourceGraphic" scale="1.4"/>
+  </filter>
+  <filter id="pen-xl-1" x="-5%" y="-200%" width="110%" height="500%">
+    <feTurbulence type="fractalNoise" baseFrequency="0.06" numOctaves="2" seed="4"/>
+    <feDisplacementMap in="SourceGraphic" scale="1.4"/>
+  </filter>
+  <filter id="pen-xl-2" x="-5%" y="-200%" width="110%" height="500%">
+    <feTurbulence type="fractalNoise" baseFrequency="0.06" numOctaves="2" seed="5"/>
+    <feDisplacementMap in="SourceGraphic" scale="1.4"/>
+  </filter>
+  <filter id="pen-xl-3" x="-5%" y="-200%" width="110%" height="500%">
+    <feTurbulence type="fractalNoise" baseFrequency="0.06" numOctaves="2" seed="6"/>
+    <feDisplacementMap in="SourceGraphic" scale="1.4"/>
+  </filter>
+  <filter id="pen-xl-4" x="-5%" y="-200%" width="110%" height="500%">
+    <feTurbulence type="fractalNoise" baseFrequency="0.06" numOctaves="2" seed="7"/>
+    <feDisplacementMap in="SourceGraphic" scale="1.4"/>
+  </filter>
+  </defs>
+  <g transform="rotate(-0.3 422 118)">
+    <rect x="27" y="37" width="790" height="174" rx="4" fill="#000" opacity="0.32" filter="url(#ribbon-shadow-xl)"/>
+    <rect x="19.5" y="29.5" width="805" height="177" rx="3" fill="#FFFAF0" stroke="#C8A46B"/>
+    <defs>
+  <!-- Across the cone, square to its sloping top edge: the narrow lemon band, then dark, then lit from below. -->
+  <linearGradient id="megaphone-xl-cone" gradientUnits="userSpaceOnUse" x1="150" y1="76" x2="105" y2="148">
+    <stop offset="0" stop-color="#593714"/><stop offset="0.07" stop-color="#B59130"/>
+    <stop offset="0.12" stop-color="#EBC03D"/><stop offset="0.17" stop-color="#FBF65A"/>
+    <stop offset="0.28" stop-color="#FFFF7A"/><stop offset="0.38" stop-color="#FBF65A"/>
+    <stop offset="0.46" stop-color="#EBC03D"/><stop offset="0.54" stop-color="#B0932B"/>
+    <stop offset="0.64" stop-color="#5C4911"/><stop offset="0.74" stop-color="#342609"/>
+    <stop offset="0.86" stop-color="#5C4911"/><stop offset="1" stop-color="#B0932B"/>
+  </linearGradient>
+  <linearGradient id="megaphone-xl-belly" gradientUnits="userSpaceOnUse" x1="0" y1="170" x2="0" y2="208">
+    <stop offset="0" stop-color="#EBC03D" stop-opacity="0"/><stop offset="1" stop-color="#EBC03D" stop-opacity="0.6"/>
+  </linearGradient>
+  <linearGradient id="megaphone-xl-rim" gradientUnits="userSpaceOnUse" x1="2" y1="0" x2="70" y2="0">
+    <stop offset="0" stop-color="#7E3902"/><stop offset="0.07" stop-color="#C9580C"/>
+    <stop offset="0.16" stop-color="#D78A1A"/><stop offset="0.32" stop-color="#EBC03D"/>
+    <stop offset="0.55" stop-color="#FCC72B"/><stop offset="0.8" stop-color="#EBC03D"/>
+    <stop offset="1" stop-color="#B59130"/>
+  </linearGradient>
+  <linearGradient id="megaphone-xl-inside" gradientUnits="userSpaceOnUse" x1="16" y1="0" x2="66" y2="0">
+    <stop offset="0" stop-color="#5D440E"/><stop offset="0.45" stop-color="#716126"/>
+    <stop offset="0.78" stop-color="#8C6A10"/><stop offset="1" stop-color="#DFB434"/>
+  </linearGradient>
+  <linearGradient id="megaphone-xl-neck" gradientUnits="userSpaceOnUse" x1="0" y1="122" x2="0" y2="196">
+    <stop offset="0" stop-color="#B59130"/><stop offset="0.2" stop-color="#FBF65A"/>
+    <stop offset="0.4" stop-color="#B0932B"/><stop offset="0.7" stop-color="#342609"/>
+    <stop offset="1" stop-color="#73590E"/>
+  </linearGradient>
+  <linearGradient id="megaphone-xl-bell" gradientUnits="userSpaceOnUse" x1="0" y1="114" x2="0" y2="202">
+    <stop offset="0" stop-color="#FBF65A"/><stop offset="0.35" stop-color="#EBC03D"/>
+    <stop offset="0.7" stop-color="#B59130"/><stop offset="1" stop-color="#5C4911"/>
+  </linearGradient>
+  <linearGradient id="megaphone-xl-ring" gradientUnits="userSpaceOnUse" x1="126" y1="198" x2="164" y2="242">
+    <stop offset="0" stop-color="#EBC03D"/><stop offset="0.45" stop-color="#B0932B"/>
+    <stop offset="1" stop-color="#5C4911"/>
+  </linearGradient></defs>
+  <g transform="translate(60.111 52.719263716814154) scale(-0.09099 0.09099) translate(-2 -16) rotate(0.00 142 170)">
+    <ellipse cx="146" cy="220" rx="16" ry="16" fill="none" stroke="url(#megaphone-xl-ring)" stroke-width="12"/>
+    <path d="M62 20 L224 118 L224 197 L70 208 L30 214 Z" fill="url(#megaphone-xl-cone)"/>
+    <path d="M62 20 L224 118 L224 197 L70 208 L30 214 Z" fill="url(#megaphone-xl-belly)"/>
+    <!-- The narrow end: a short neck, then a flared rim ring with its dark opening. -->
+    <path d="M222 122 H236 V194 H222 Z" fill="url(#megaphone-xl-neck)"/>
+    <ellipse cx="238" cy="158" rx="12" ry="40" transform="rotate(-4 238 158)" fill="#342609"
+      stroke="url(#megaphone-xl-bell)" stroke-width="8"/>
+    <g transform="rotate(11.3 36 118)">
+      <ellipse cx="36" cy="118" rx="34" ry="102" fill="url(#megaphone-xl-rim)"/>
+      <ellipse cx="43" cy="120" rx="23" ry="89" fill="url(#megaphone-xl-inside)"/>
+      <path d="M16 38 C5 78 5 148 18 196"
+        fill="none" stroke="#FBF65A" stroke-width="5" stroke-linecap="round" opacity="0.7"/>
+      <path d="M30 20 C18 28 10 58 7 78"
+        fill="none" stroke="#F3E3B8" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+    </g>
+    <g transform="rotate(11.3 36 118)"><path d="M-16.0 76.0 q-18.9 42.0 0 84.0"
+    fill="none" stroke="#D97706" stroke-width="15" stroke-linecap="round" opacity="1.000"/><path d="M-46.0 52.0 q-29.7 66.0 0 132.0"
+    fill="none" stroke="#D97706" stroke-width="15" stroke-linecap="round" opacity="1.000"/></g>
+  </g>
+    <text x="72" y="68.426" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#2A1F10" xml:space="preserve"><tspan font-weight="700">Open to research roles &amp; collaborations</tspan></text>
+    <line x1="37" x2="807" y1="88" y2="88" stroke="#8A7550" stroke-opacity="0.7" stroke-dasharray="3 4"/>
+    <circle cx="40" cy="106.18" r="2.4" fill="#B45309"/>
+    <text x="51" y="111.353" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="400">Research</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">roles</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">in</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">industry</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">AI</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">labs</tspan></text>
+    <circle cx="40" cy="132.18" r="2.4" fill="#B45309"/>
+    <text x="51" y="137.353" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="400">Research</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">positions</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">(intern/assistant)</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">at</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">academic</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">labs</tspan></text>
+    <circle cx="40" cy="158.18" r="2.4" fill="#B45309"/>
+    <text x="51" y="163.353" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="400">Collaboration</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">on</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">long-horizon</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">agents</tspan><tspan font-weight="400">,</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">including</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">self-evolving</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">agents</tspan><tspan font-weight="400">,</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">agent</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">memory</tspan><tspan font-weight="400">,</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">AutoResearch</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">agents</tspan><tspan font-weight="400">,</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">and</tspan></text><text x="51" y="184.353" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="700" fill="#2A1F10">ML</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">Coding</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">for</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">a</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">research</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">project/paper.</tspan></text>
+    <path d="M159.59 168.30 C181.79 167.50 215.08 167.35 252.07 167.80" fill="none" stroke="#B45309" stroke-width="2.1" stroke-linecap="round"
+    stroke-dasharray="93.40 186.81" stroke-dashoffset="0.00"
+    opacity="1.000" filter="url(#pen-xl-0)"/><path d="M368.93 168.30 C391.12 167.50 424.41 167.35 461.41 167.80" fill="none" stroke="#B45309" stroke-width="2.1" stroke-linecap="round"
+    stroke-dasharray="93.40 186.81" stroke-dashoffset="0.00"
+    opacity="1.000" filter="url(#pen-xl-1)"/><path d="M515.33 168.30 C540.77 167.50 578.93 167.35 621.33 167.80" fill="none" stroke="#B45309" stroke-width="2.1" stroke-linecap="round"
+    stroke-dasharray="107.06 214.12" stroke-dashoffset="0.00"
+    opacity="1.000" filter="url(#pen-xl-2)"/><path d="M623.39 168.30 C648.16 167.50 685.32 167.35 726.61 167.80" fill="none" stroke="#B45309" stroke-width="2.1" stroke-linecap="round"
+    stroke-dasharray="104.26 208.52" stroke-dashoffset="0.00"
+    opacity="1.000" filter="url(#pen-xl-3)"/><path d="M48.51 189.30 C67.62 188.50 96.30 188.35 128.16 188.80" fill="none" stroke="#B45309" stroke-width="2.1" stroke-linecap="round"
+    stroke-dasharray="80.45 160.90" stroke-dashoffset="0.00"
+    opacity="1.000" filter="url(#pen-xl-4)"/>
+  <rect x="556" y="47" width="109"
+    height="32" rx="5" fill="#B45309"
+    />
+  <text x="610.5" y="67.86" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+    font-size="13.5" font-weight="600" fill="#FFFAF0">Research CV</text>
+  <rect x="673.75" y="47.75" width="84.5"
+    height="30.5" rx="5" fill="none"
+    stroke="#B45309" stroke-width="1.5"/>
+  <text x="716" y="67.86" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+    font-size="13.5" font-weight="600" fill="#B45309">Email me</text>
+    <g transform="translate(39.72 35) rotate(-34)">
+    <clipPath id="tape-l-xl"><path d="M-37.00 -11.00 L-38.60 -6.60 L-37.00 -2.20 L-38.60 2.20 L-37.00 6.60 L-38.60 11.00 L38.60 11.00 L37.00 6.60 L38.60 2.20 L37.00 -2.20 L38.60 -6.60 L37.00 -11.00 Z"/></clipPath>
+    <path d="M-37.00 -11.00 L-38.60 -6.60 L-37.00 -2.20 L-38.60 2.20 L-37.00 6.60 L-38.60 11.00 L38.60 11.00 L37.00 6.60 L38.60 2.20 L37.00 -2.20 L38.60 -6.60 L37.00 -11.00 Z" fill="#F8B46A" opacity="0.820"/>
+    <g clip-path="url(#tape-l-xl)" opacity="0.22" stroke="#E3832B" stroke-width="0.6">
+      <path d="M-37 -8.8H37M-37 8.8H37"/>
+    </g>
+    <path d="M-37.00 -11.00 L-38.60 -6.60 L-37.00 -2.20 L-38.60 2.20 L-37.00 6.60 L-38.60 11.00 L38.60 11.00 L37.00 6.60 L38.60 2.20 L37.00 -2.20 L38.60 -6.60 L37.00 -11.00 Z" fill="none" stroke="#E3832B" stroke-width="0.6" opacity="0.45"/>
+  </g>
+    <g transform="translate(804.28 35) rotate(32)">
+    <clipPath id="tape-r-xl"><path d="M-37.00 -11.00 L-38.60 -6.60 L-37.00 -2.20 L-38.60 2.20 L-37.00 6.60 L-38.60 11.00 L38.60 11.00 L37.00 6.60 L38.60 2.20 L37.00 -2.20 L38.60 -6.60 L37.00 -11.00 Z"/></clipPath>
+    <path d="M-37.00 -11.00 L-38.60 -6.60 L-37.00 -2.20 L-38.60 2.20 L-37.00 6.60 L-38.60 11.00 L38.60 11.00 L37.00 6.60 L38.60 2.20 L37.00 -2.20 L38.60 -6.60 L37.00 -11.00 Z" fill="#F8B46A" opacity="0.820"/>
+    <g clip-path="url(#tape-r-xl)" opacity="0.22" stroke="#E3832B" stroke-width="0.6">
+      <path d="M-37 -8.8H37M-37 8.8H37"/>
+    </g>
+    <path d="M-37.00 -11.00 L-38.60 -6.60 L-37.00 -2.20 L-38.60 2.20 L-37.00 6.60 L-38.60 11.00 L38.60 11.00 L37.00 6.60 L38.60 2.20 L37.00 -2.20 L38.60 -6.60 L37.00 -11.00 Z" fill="none" stroke="#E3832B" stroke-width="0.6" opacity="0.45"/>
+  </g>
+  </g></svg>
