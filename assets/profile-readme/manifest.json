@@ -955,12 +955,12 @@
   },
   {
     "name": "latest-news",
-    "file": "news/latest-news-0cf58bcec4aa.png",
-    "poster": "news/latest-news-0cf58bcec4aa.png",
-    "width": 45,
-    "height": 20,
+    "file": "news/latest-news-38d875d9bf52.png",
+    "poster": "news/latest-news-38d875d9bf52.png",
+    "width": 70,
+    "height": 30,
     "duration": 0,
-    "bytes": 2186
+    "bytes": 4575
   },
   {
     "name": "latest-news-leaf-2026-11-02",
