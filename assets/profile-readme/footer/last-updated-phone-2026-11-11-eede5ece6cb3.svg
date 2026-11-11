@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="188" height="92" viewBox="0 0 188 92"><style>
+    .tool { animation: tool 3600ms infinite; }
+    .press { transform-box: fill-box; transform-origin: center bottom; animation: press 3600ms infinite; }
+    .fresh { transform-box: fill-box; transform-origin: center; animation: fresh 3600ms infinite; }
+    .ink { animation: ink 3600ms infinite; }
+    @keyframes tool {
+      0% { transform: translate(94px, -6px); animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
+      19.444% { transform: translate(94px, -6px); animation-timing-function: cubic-bezier(0, 0, 0.6, 1); }
+      31.944% { transform: translate(94px, 62px); animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
+      34.722% { transform: translate(94px, 54px); animation-timing-function: cubic-bezier(0.55, 0, 1, 0.45); }
+      36.944% { transform: translate(94px, 84px); animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
+      40.833% { transform: translate(94px, 84px); animation-timing-function: cubic-bezier(0, 0.55, 0.45, 1); }
+      44.444% { transform: translate(94px, 66px); animation-timing-function: cubic-bezier(0.4, 0, 1, 1); }
+      52.778% { transform: translate(94px, -6px); animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
+      100% { transform: translate(94px, -6px); animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
+    }
+    @keyframes press {
+      0% { transform: rotate(0deg) scaleY(1); animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
+      36.944% { transform: rotate(0deg) scaleY(1); animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
+      38.056% { transform: rotate(0deg) scaleY(0.86); animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
+      40.278% { transform: rotate(0deg) scaleY(0.95); animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
+      42.5% { transform: rotate(0deg) scaleY(1.03); animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
+      44.722% { transform: rotate(0deg) scaleY(1); animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
+      100% { transform: rotate(0deg) scaleY(1); animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
+    }
+    @keyframes ink {
+      0% { opacity: 1; animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
+      36.944% { opacity: 1; animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
+      38.056% { opacity: 0.35; animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
+      100% { opacity: 0.35; animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
+    }
+    @keyframes fresh {
+      0% { opacity: 1; transform: scale(1); animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
+      11.111% { opacity: 1; transform: scale(1); animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
+      18.056% { opacity: 0; transform: scale(1.05); animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
+      36.944% { opacity: 0; transform: scale(1.05); animation-timing-function: steps(1, end); }
+      36.972% { opacity: 1; transform: scale(1.05); animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
+      44.722% { opacity: 1; transform: scale(1); animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
+      100% { opacity: 1; transform: scale(1); animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
+    }
+    @media (prefers-reduced-motion: reduce) { .tool, .press, .fresh, .ink { animation: none !important; } }
+  </style>
+
+    <rect x="1" y="1" width="186" height="90" rx="3" fill="#FBF3E4" stroke="#D8C9A8"/>
+    <rect x="130" y="12" width="48" height="68" fill="#FFFDF7"/>
+    <rect x="130" y="12" width="48" height="68" fill="none" stroke="#FBF3E4" stroke-width="4" stroke-dasharray="0.01 5.6" stroke-linecap="round"/>
+    <rect x="134" y="16" width="40" height="46" fill="#F6C98A"/>
+    <circle cx="163" cy="28" r="6.5" fill="#E8743B"/>
+    <path d="M134 62V50l8 -3 3 -9h9l3 9 7 4v13Z" fill="#B4532A"/>
+    <path d="M166 62V43m0 8h-4v-5m4 9h4v-6" stroke="#2F6B3F" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    <text x="154" y="73" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="6" font-weight="700" letter-spacing="0.8" fill="#7C2D12">TEMPE · AZ</text>
+    <text x="10" y="18" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.4" fill="#57606A">LAST UPDATED</text>
+    <path d="M10 24.5H70" stroke="#B9A77F" stroke-dasharray="2 2"/>
+    <g transform="translate(35 62) rotate(-12)" opacity="0.22"><circle r="21" fill="none" stroke="#B45309" stroke-width="1.7"/><circle r="15" fill="none" stroke="#B45309" stroke-width="0.8"/>
+      <text y="1.9" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8.6" font-weight="700" fill="#B45309">10 NOV</text><text y="10.1" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="6.3" font-weight="700" fill="#B45309">2026</text></g>
+    <g transform="translate(94 56) rotate(-6)"><g class="fresh"><circle r="28" fill="none" stroke="#B45309" stroke-width="1.7"/><circle r="22" fill="none" stroke="#B45309" stroke-width="0.8"/>
+      <text y="2.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" font-weight="700" fill="#B45309">11 NOV</text><text y="13.4" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8.4" font-weight="700" fill="#B45309">2026</text></g></g>
+    <path d="M122 36q6 -4 12 0t12 0 12 0 12 0 12 0" fill="none" stroke="#B45309" stroke-width="1.3"/><path d="M122 44q6 -4 12 0t12 0 12 0 12 0 12 0" fill="none" stroke="#B45309" stroke-width="1.3"/><path d="M122 52q6 -4 12 0t12 0 12 0 12 0 12 0" fill="none" stroke="#B45309" stroke-width="1.3"/><path d="M122 60q6 -4 12 0t12 0 12 0 12 0 12 0" fill="none" stroke="#B45309" stroke-width="1.3"/><path d="M122 68q6 -4 12 0t12 0 12 0 12 0 12 0" fill="none" stroke="#B45309" stroke-width="1.3"/>
+    <g class="tool" transform="translate(94 -6)"><g class="press">
+    <circle cy="-32" r="7" fill="#3A4048" stroke="#8B949E" stroke-width="0.75"/>
+    <rect x="-3.5" y="-26" width="7" height="13" fill="#57606A"/>
+    <rect x="-28" y="-13" width="56" height="10" rx="2.5" fill="#B45309" stroke="#7C2D12"/>
+    <rect x="-30" y="-4" width="60" height="4" rx="1.5" fill="#3A4048" stroke="#8B949E" stroke-width="0.75"/>
+    <rect class="ink" x="-29" y="-2" width="58" height="2" rx="1" fill="#B45309" opacity="0.35"/></g></g></svg>
