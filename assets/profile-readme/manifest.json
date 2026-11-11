@@ -1208,35 +1208,35 @@
   },
   {
     "name": "last-updated-desktop-2026-11-11",
-    "file": "footer/last-updated-desktop-2026-11-11-961b202213af.svg",
-    "poster": "footer/last-updated-desktop-2026-11-11-961b202213af-still.svg",
-    "width": 320,
-    "height": 126,
-    "bytes": 9607
+    "file": "footer/last-updated-desktop-2026-11-11-5c86a0189026.svg",
+    "poster": "footer/last-updated-desktop-2026-11-11-5c86a0189026-still.svg",
+    "width": 388,
+    "height": 130,
+    "bytes": 15652
   },
   {
     "name": "last-updated-tablet-2026-11-11",
-    "file": "footer/last-updated-tablet-2026-11-11-e7323e544e45.svg",
-    "poster": "footer/last-updated-tablet-2026-11-11-e7323e544e45-still.svg",
-    "width": 362,
-    "height": 140,
-    "bytes": 10639
+    "file": "footer/last-updated-tablet-2026-11-11-20077db596a2.svg",
+    "poster": "footer/last-updated-tablet-2026-11-11-20077db596a2-still.svg",
+    "width": 420,
+    "height": 147,
+    "bytes": 16796
   },
   {
     "name": "last-updated-phone-large-2026-11-11",
-    "file": "footer/last-updated-phone-large-2026-11-11-1c94ff38af27.svg",
-    "poster": "footer/last-updated-phone-large-2026-11-11-1c94ff38af27-still.svg",
-    "width": 276,
-    "height": 112,
-    "bytes": 10593
+    "file": "footer/last-updated-phone-large-2026-11-11-6967ac17656a.svg",
+    "poster": "footer/last-updated-phone-large-2026-11-11-6967ac17656a-still.svg",
+    "width": 312,
+    "height": 132,
+    "bytes": 16819
   },
   {
     "name": "last-updated-phone-2026-11-11",
-    "file": "footer/last-updated-phone-2026-11-11-eede5ece6cb3.svg",
-    "poster": "footer/last-updated-phone-2026-11-11-eede5ece6cb3-still.svg",
+    "file": "footer/last-updated-phone-2026-11-11-6c5bae87edba.svg",
+    "poster": "footer/last-updated-phone-2026-11-11-6c5bae87edba-still.svg",
     "width": 188,
     "height": 92,
-    "bytes": 6739
+    "bytes": 8008
   },
   {
     "name": "responsive-blank",

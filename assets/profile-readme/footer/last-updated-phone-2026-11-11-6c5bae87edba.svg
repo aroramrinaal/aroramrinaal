@@ -1,8 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="188" height="92" viewBox="0 0 188 92"><style>
-    .tool { animation: tool 3600ms infinite; }
-    .press { transform-box: fill-box; transform-origin: center bottom; animation: press 3600ms infinite; }
-    .fresh { transform-box: fill-box; transform-origin: center; animation: fresh 3600ms infinite; }
-    .ink { animation: ink 3600ms infinite; }
+    .tool { animation: tool 3600ms infinite; } .press { animation: press 3600ms infinite; } .fresh { animation: fresh 3600ms infinite; } .wet { animation: wet 3600ms infinite; } .ink { animation: ink 3600ms infinite; } .shadow { animation: shadow 3600ms infinite; } .dent { animation: dent 3600ms infinite; } .paper { animation: paper 3600ms infinite; }
+    .press { transform-box: fill-box; transform-origin: center bottom; }
+    .fresh, .wet { transform-box: fill-box; transform-origin: center; }
     @keyframes tool {
       0% { transform: translate(94px, -6px); animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
       19.444% { transform: translate(94px, -6px); animation-timing-function: cubic-bezier(0, 0, 0.6, 1); }
@@ -38,7 +37,15 @@
       44.722% { opacity: 1; transform: scale(1); animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
       100% { opacity: 1; transform: scale(1); animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
     }
-    @media (prefers-reduced-motion: reduce) { .tool, .press, .fresh, .ink { animation: none !important; } }
+    @keyframes wet {
+      0% { opacity: 0; animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
+      36.944% { opacity: 0; animation-timing-function: steps(1, end); }
+      36.972% { opacity: 1; animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
+      46.389% { opacity: 0.8; animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
+      68.611% { opacity: 0; animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
+      100% { opacity: 0; animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
+    }
+    @media (prefers-reduced-motion: reduce) { .tool, .press, .fresh, .wet, .ink, .shadow, .dent, .paper { animation: none !important; } }
   </style>
 
     <rect x="1" y="1" width="186" height="90" rx="3" fill="#FBF3E4" stroke="#D8C9A8"/>
@@ -51,10 +58,11 @@
     <text x="154" y="73" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="6" font-weight="700" letter-spacing="0.8" fill="#7C2D12">TEMPE · AZ</text>
     <text x="10" y="18" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.4" fill="#57606A">LAST UPDATED</text>
     <path d="M10 24.5H70" stroke="#B9A77F" stroke-dasharray="2 2"/>
-    <g transform="translate(35 62) rotate(-12)" opacity="0.22"><circle r="21" fill="none" stroke="#B45309" stroke-width="1.7"/><circle r="15" fill="none" stroke="#B45309" stroke-width="0.8"/>
+    <g transform="translate(35 62) rotate(-12)" opacity="0.3"><circle r="21" fill="none" stroke="#B45309" stroke-width="1.7"/><circle r="15" fill="none" stroke="#B45309" stroke-width="0.8"/>
       <text y="1.9" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8.6" font-weight="700" fill="#B45309">10 NOV</text><text y="10.1" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="6.3" font-weight="700" fill="#B45309">2026</text></g>
     <g transform="translate(94 56) rotate(-6)"><g class="fresh"><circle r="28" fill="none" stroke="#B45309" stroke-width="1.7"/><circle r="22" fill="none" stroke="#B45309" stroke-width="0.8"/>
-      <text y="2.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" font-weight="700" fill="#B45309">11 NOV</text><text y="13.4" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8.4" font-weight="700" fill="#B45309">2026</text></g></g>
+      <text y="2.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" font-weight="700" fill="#B45309">11 NOV</text><text y="13.4" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8.4" font-weight="700" fill="#B45309">2026</text></g><g class="wet" opacity="0"><circle r="28" fill="none" stroke="#5C1A05" stroke-width="1.7"/><circle r="22" fill="none" stroke="#5C1A05" stroke-width="0.8"/>
+      <text y="2.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" font-weight="700" fill="#5C1A05">11 NOV</text><text y="13.4" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8.4" font-weight="700" fill="#5C1A05">2026</text></g></g>
     <path d="M122 36q6 -4 12 0t12 0 12 0 12 0 12 0" fill="none" stroke="#B45309" stroke-width="1.3"/><path d="M122 44q6 -4 12 0t12 0 12 0 12 0 12 0" fill="none" stroke="#B45309" stroke-width="1.3"/><path d="M122 52q6 -4 12 0t12 0 12 0 12 0 12 0" fill="none" stroke="#B45309" stroke-width="1.3"/><path d="M122 60q6 -4 12 0t12 0 12 0 12 0 12 0" fill="none" stroke="#B45309" stroke-width="1.3"/><path d="M122 68q6 -4 12 0t12 0 12 0 12 0 12 0" fill="none" stroke="#B45309" stroke-width="1.3"/>
     <g class="tool" transform="translate(94 -6)"><g class="press">
     <circle cy="-32" r="7" fill="#3A4048" stroke="#8B949E" stroke-width="0.75"/>
