@@ -12,11 +12,11 @@
       24.444% { transform: translate(58px, 108px); animation-timing-function: cubic-bezier(0.4, 0, 1, 1); }
       30.556% { transform: translate(58px, 92px); animation-timing-function: linear; }
       37.5% { transform: translate(137px, 82px); animation-timing-function: cubic-bezier(0, 0, 0.6, 1); }
-      43.889% { transform: translate(216px, 95px); animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
-      46.667% { transform: translate(216px, 87px); animation-timing-function: cubic-bezier(0.55, 0, 1, 0.45); }
-      48.889% { transform: translate(216px, 113px); animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
-      52.778% { transform: translate(216px, 113px); animation-timing-function: cubic-bezier(0, 0.55, 0.45, 1); }
-      56.667% { transform: translate(216px, 97px); animation-timing-function: cubic-bezier(0.4, 0, 1, 1); }
+      43.889% { transform: translate(216px, 91.5px); animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
+      46.667% { transform: translate(216px, 83.5px); animation-timing-function: cubic-bezier(0.55, 0, 1, 0.45); }
+      48.889% { transform: translate(216px, 109.5px); animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
+      52.778% { transform: translate(216px, 109.5px); animation-timing-function: cubic-bezier(0, 0.55, 0.45, 1); }
+      56.667% { transform: translate(216px, 93.5px); animation-timing-function: cubic-bezier(0.4, 0, 1, 1); }
       63.889% { transform: translate(137px, 82px); animation-timing-function: linear; }
       71.111% { transform: translate(58px, 94px); animation-timing-function: cubic-bezier(0.55, 0, 1, 0.45); }
       75% { transform: translate(58px, 108px); animation-timing-function: cubic-bezier(0.45, 0, 0.25, 1); }
@@ -68,11 +68,11 @@
 
     <rect x="120" y="9" width="196" height="114" rx="3" fill="#000" opacity="0.14"/>
     <rect x="118" y="6" width="196" height="114" rx="2" fill="#FBF3E4" stroke="#D8C9A8"/>
-    <text x="216" y="26" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.4" fill="#57606A">LAST UPDATED</text>
-    <path d="M130 33.5H302" stroke="#B9A77F" stroke-dasharray="2 2"/>
-    <g transform="translate(216 51) rotate(2.5)" opacity="0.24"><rect x="-49" y="-12" width="98" height="24" rx="3" fill="none" stroke="#B45309" stroke-width="1.6"/><text y="4.9" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" font-weight="700" fill="#B45309">NOV 09 2026</text></g>
-    <g transform="translate(216 76) rotate(-1.5)" opacity="0.42"><rect x="-49" y="-12" width="98" height="24" rx="3" fill="none" stroke="#B45309" stroke-width="1.6"/><text y="4.9" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" font-weight="700" fill="#B45309">NOV 10 2026</text></g>
-    <g transform="translate(216 101) rotate(-3)"><g class="fresh"><rect x="-49" y="-12" width="98" height="24" rx="3" fill="none" stroke="#B45309" stroke-width="1.6"/><text y="4.9" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" font-weight="700" fill="#B45309">NOV 11 2026</text></g></g>
+    <text x="216" y="22" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.4" fill="#57606A">LAST UPDATED</text>
+    <path d="M130 28.5H302" stroke="#B9A77F" stroke-dasharray="2 2"/>
+    <g transform="translate(216 49.5) rotate(1.5)" opacity="0.24"><rect x="-49" y="-11" width="98" height="22" rx="3" fill="none" stroke="#B45309" stroke-width="1.6"/><text y="4.9" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" font-weight="700" fill="#B45309">NOV 09 2026</text></g>
+    <g transform="translate(216 74) rotate(-1)" opacity="0.42"><rect x="-49" y="-11" width="98" height="22" rx="3" fill="none" stroke="#B45309" stroke-width="1.6"/><text y="4.9" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" font-weight="700" fill="#B45309">NOV 10 2026</text></g>
+    <g transform="translate(216 98.5) rotate(-2.5)"><g class="fresh"><rect x="-49" y="-11" width="98" height="22" rx="3" fill="none" stroke="#B45309" stroke-width="1.6"/><text y="4.9" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" font-weight="700" fill="#B45309">NOV 11 2026</text></g></g>
     <g transform="translate(58 108)">
     <rect x="-55" y="0" width="110" height="9" rx="2" fill="#3A4048" stroke="#8B949E" stroke-width="0.75"/>
     <rect x="-51" y="1.5" width="102" height="2.5" rx="1" fill="#7C2D12"/></g><g class="tool" transform="translate(58 108)"><g class="press">
