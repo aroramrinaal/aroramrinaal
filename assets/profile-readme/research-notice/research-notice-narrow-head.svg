@@ -106,19 +106,17 @@
     <rect x="30" y="188" width="254" height="151" rx="3" fill="#000" opacity="0.32" filter="url(#notes-shadow-narrow)"/>
     <rect x="26.5" y="183.5" width="259" height="153" rx="3" fill="#FFF1B8" stroke="#D9C27A"/>
   <circle cx="44" cy="212.18" r="2.4" fill="#B45309"/>
-  <text x="55" y="217.353" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="400">Collaboration</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">on</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">long-horizon</tspan></text><text x="55" y="237.353" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="700" fill="#2A1F10">agents</tspan><tspan font-weight="400">,</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">including</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">self-evolving</tspan></text><text x="55" y="257.353" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="700" fill="#2A1F10">agents</tspan><tspan font-weight="400">,</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">agent</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">memory</tspan><tspan font-weight="400">,</tspan></text><text x="55" y="277.353" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="700" fill="#2A1F10">AutoResearch</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">agents</tspan><tspan font-weight="400">,</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">and</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">ML</tspan></text><text x="55" y="297.353" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="700" fill="#2A1F10">Coding</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">for</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">a</tspan></text><text x="55" y="317.353" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="400">research</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">project/paper.</tspan></text>
+  <text x="55" y="217.353" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="400">Collaboration</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">on</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">long-horizon</tspan></text><text x="55" y="237.353" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="700" fill="#2A1F10">agents</tspan><tspan font-weight="400">,</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">including</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">coding</tspan></text><text x="55" y="257.353" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="700" fill="#2A1F10">agents</tspan><tspan font-weight="400">,</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">self-evolving</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">agents</tspan><tspan font-weight="400">,</tspan></text><text x="55" y="277.353" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="700" fill="#2A1F10">agent</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">memory</tspan><tspan font-weight="400">,</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">and</tspan></text><text x="55" y="297.353" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="700" fill="#2A1F10">AutoResearch</tspan><tspan font-weight="400"> </tspan><tspan font-weight="700" fill="#2A1F10">agents</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">for</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">a</tspan></text><text x="55" y="317.353" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#3A2C18" xml:space="preserve"><tspan font-weight="400">research</tspan><tspan font-weight="400"> </tspan><tspan font-weight="400">project/paper.</tspan></text>
     <path d="M163.59 222.30 C185.79 221.50 219.08 221.35 256.07 221.80" fill="none" stroke="#B45309" stroke-width="2.1" stroke-linecap="round"
     stroke-dasharray="93.40 186.81" stroke-dashoffset="0.00"
-    opacity="1.000" filter="url(#pen-narrow-0)"/><path d="M169.93 242.30 C192.12 241.50 225.41 241.35 262.41 241.80" fill="none" stroke="#B45309" stroke-width="2.1" stroke-linecap="round"
+    opacity="1.000" filter="url(#pen-narrow-0)"/><path d="M170.40 242.30 C182.53 241.50 200.72 241.35 220.93 241.80" fill="none" stroke="#B45309" stroke-width="2.1" stroke-linecap="round"
+    stroke-dasharray="51.04 102.08" stroke-dashoffset="0.00"
+    opacity="1.000" filter="url(#pen-narrow-1)"/><path d="M107.26 262.30 C129.46 261.50 162.75 261.35 199.74 261.80" fill="none" stroke="#B45309" stroke-width="2.1" stroke-linecap="round"
     stroke-dasharray="93.40 186.81" stroke-dashoffset="0.00"
-    opacity="1.000" filter="url(#pen-narrow-1)"/><path d="M107.00 262.30 C132.44 261.50 170.60 261.35 213.00 261.80" fill="none" stroke="#B45309" stroke-width="2.1" stroke-linecap="round"
+    opacity="1.000" filter="url(#pen-narrow-2)"/><path d="M52.00 282.30 C77.44 281.50 115.60 281.35 158.00 281.80" fill="none" stroke="#B45309" stroke-width="2.1" stroke-linecap="round"
     stroke-dasharray="107.06 214.12" stroke-dashoffset="0.00"
-    opacity="1.000" filter="url(#pen-narrow-2)"/><path d="M52.05 282.30 C76.83 281.50 113.99 281.35 155.28 281.80" fill="none" stroke="#B45309" stroke-width="2.1" stroke-linecap="round"
+    opacity="1.000" filter="url(#pen-narrow-3)"/><path d="M52.05 302.30 C76.83 301.50 113.99 301.35 155.28 301.80" fill="none" stroke="#B45309" stroke-width="2.1" stroke-linecap="round"
     stroke-dasharray="104.26 208.52" stroke-dashoffset="0.00"
-    opacity="1.000" filter="url(#pen-narrow-3)"/><path d="M239.23 282.30 C245.12 281.50 253.95 281.35 263.77 281.80" fill="none" stroke="#B45309" stroke-width="2.1" stroke-linecap="round"
-    stroke-dasharray="24.78 49.56" stroke-dashoffset="0.00"
-    opacity="1.000" filter="url(#pen-narrow-4)"/><path d="M53.02 302.30 C65.73 301.50 84.80 301.35 105.98 301.80" fill="none" stroke="#B45309" stroke-width="2.1" stroke-linecap="round"
-    stroke-dasharray="53.49 106.98" stroke-dashoffset="0.00"
     opacity="1.000" filter="url(#pen-narrow-4)"/>
     <g transform="translate(146.05 169.175) scale(0.85)">
     <defs>
@@ -151,62 +149,10 @@
     <rect x="20" y="357" width="260" height="31" rx="4" fill="#000" opacity="0.32" filter="url(#notes-shadow-narrow)"/>
     <rect x="16.5" y="352.5" width="265" height="33" rx="4" fill="#B45309" stroke="#B45309"/>
     <text x="149" y="374.04" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#FFFAF0">Research CV</text>
-    <g transform="translate(25.15 358.525) scale(0.55)">
-    <defs>
-      <linearGradient id="pin-cv-narrow-body" x1="0" x2="1" y1="0" y2="0">
-        <stop offset="0" stop-color="#E3832B"/><stop offset="0.5" stop-color="#B45309"/>
-        <stop offset="0.86" stop-color="#8F3F0A"/><stop offset="1" stop-color="#5E2806"/>
-      </linearGradient>
-      <linearGradient id="pin-cv-narrow-top" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#F8B46A"/><stop offset="1" stop-color="#E3832B"/></linearGradient>
-      <linearGradient id="pin-cv-narrow-steel" x1="0" x2="1" y1="0" y2="0">
-        <stop offset="0" stop-color="#E5E7EB"/><stop offset="0.5" stop-color="#A8AEB7"/><stop offset="1" stop-color="#6B7280"/>
-      </linearGradient>
-      <radialGradient id="pin-cv-narrow-shadow"><stop offset="0" stop-color="rgb(58,44,24)" stop-opacity="0.42"/><stop offset="1" stop-color="rgb(58,44,24)" stop-opacity="0"/></radialGradient>
-    </defs>
-    <ellipse cx="16.5" cy="19.2" rx="6.4" ry="2.7" transform="rotate(-18 16.5 19.2)" fill="url(#pin-cv-narrow-shadow)"/>
-    <path d="M7 24.5L12.6 21.4" stroke="rgb(58,44,24)" stroke-opacity="0.26" stroke-width="1" stroke-linecap="round"/>
-    <ellipse cx="7" cy="24.5" rx="0.95" ry="0.45" fill="rgb(58,44,24)" fill-opacity="0.55"/>
-    <g transform="rotate(28 7 24.5)">
-      <rect x="6.35" y="18" width="1.3" height="6.5" rx="0.65" fill="url(#pin-cv-narrow-steel)"/>
-      <ellipse cx="7" cy="19.1" rx="4.6" ry="1.5" fill="#5E2806" stroke="#3D1703" stroke-width="0.45" stroke-linejoin="round"/>
-      <ellipse cx="7" cy="18.7" rx="4.6" ry="1.35" fill="url(#pin-cv-narrow-body)" stroke="#3D1703" stroke-width="0.45" stroke-linejoin="round"/>
-      <path d="M4.6 18.6C5.4 16.6 5.6 14.2 5.3 12.1H8.7C8.4 14.2 8.6 16.6 9.4 18.6Z" fill="url(#pin-cv-narrow-body)" stroke="#3D1703" stroke-width="0.45" stroke-linejoin="round"/>
-      <path d="M1 9.6A6 2.2 0 0 0 13 9.6V12A6 2.2 0 0 1 1 12Z" fill="url(#pin-cv-narrow-body)" stroke="#3D1703" stroke-width="0.45" stroke-linejoin="round"/>
-      <ellipse cx="7" cy="9.6" rx="6" ry="2.2" fill="url(#pin-cv-narrow-top)" stroke="#3D1703" stroke-width="0.45" stroke-linejoin="round"/>
-      <ellipse cx="4.9" cy="9.05" rx="2.1" ry="0.75" fill="#fff" opacity="0.6"/>
-      <path d="M2 10.7Q2.6 11.9 4.2 12.6" fill="none" stroke="#fff" stroke-opacity="0.3" stroke-width="0.5" stroke-linecap="round"/>
-    </g>
-  </g>
   </g>
   <g transform="rotate(0.5 149 413)">
     <rect x="20" y="401" width="260" height="31" rx="4" fill="#000" opacity="0.32" filter="url(#notes-shadow-narrow)"/>
     <rect x="16.5" y="396.5" width="265" height="33" rx="4" fill="#FFFAF0" stroke="#B45309"/>
     <rect x="16.75" y="396.75" width="264.5" height="32.5" rx="4" fill="none" stroke="#B45309" stroke-width="1.5"/>
     <text x="149" y="418.04" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#B45309">Email me</text>
-    <g transform="translate(25.15 402.525) scale(0.55)">
-    <defs>
-      <linearGradient id="pin-email-narrow-body" x1="0" x2="1" y1="0" y2="0">
-        <stop offset="0" stop-color="#E3832B"/><stop offset="0.5" stop-color="#B45309"/>
-        <stop offset="0.86" stop-color="#8F3F0A"/><stop offset="1" stop-color="#5E2806"/>
-      </linearGradient>
-      <linearGradient id="pin-email-narrow-top" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#F8B46A"/><stop offset="1" stop-color="#E3832B"/></linearGradient>
-      <linearGradient id="pin-email-narrow-steel" x1="0" x2="1" y1="0" y2="0">
-        <stop offset="0" stop-color="#E5E7EB"/><stop offset="0.5" stop-color="#A8AEB7"/><stop offset="1" stop-color="#6B7280"/>
-      </linearGradient>
-      <radialGradient id="pin-email-narrow-shadow"><stop offset="0" stop-color="rgb(58,44,24)" stop-opacity="0.42"/><stop offset="1" stop-color="rgb(58,44,24)" stop-opacity="0"/></radialGradient>
-    </defs>
-    <ellipse cx="16.5" cy="19.2" rx="6.4" ry="2.7" transform="rotate(-18 16.5 19.2)" fill="url(#pin-email-narrow-shadow)"/>
-    <path d="M7 24.5L12.6 21.4" stroke="rgb(58,44,24)" stroke-opacity="0.26" stroke-width="1" stroke-linecap="round"/>
-    <ellipse cx="7" cy="24.5" rx="0.95" ry="0.45" fill="rgb(58,44,24)" fill-opacity="0.55"/>
-    <g transform="rotate(28 7 24.5)">
-      <rect x="6.35" y="18" width="1.3" height="6.5" rx="0.65" fill="url(#pin-email-narrow-steel)"/>
-      <ellipse cx="7" cy="19.1" rx="4.6" ry="1.5" fill="#5E2806" stroke="#3D1703" stroke-width="0.45" stroke-linejoin="round"/>
-      <ellipse cx="7" cy="18.7" rx="4.6" ry="1.35" fill="url(#pin-email-narrow-body)" stroke="#3D1703" stroke-width="0.45" stroke-linejoin="round"/>
-      <path d="M4.6 18.6C5.4 16.6 5.6 14.2 5.3 12.1H8.7C8.4 14.2 8.6 16.6 9.4 18.6Z" fill="url(#pin-email-narrow-body)" stroke="#3D1703" stroke-width="0.45" stroke-linejoin="round"/>
-      <path d="M1 9.6A6 2.2 0 0 0 13 9.6V12A6 2.2 0 0 1 1 12Z" fill="url(#pin-email-narrow-body)" stroke="#3D1703" stroke-width="0.45" stroke-linejoin="round"/>
-      <ellipse cx="7" cy="9.6" rx="6" ry="2.2" fill="url(#pin-email-narrow-top)" stroke="#3D1703" stroke-width="0.45" stroke-linejoin="round"/>
-      <ellipse cx="4.9" cy="9.05" rx="2.1" ry="0.75" fill="#fff" opacity="0.6"/>
-      <path d="M2 10.7Q2.6 11.9 4.2 12.6" fill="none" stroke="#fff" stroke-opacity="0.3" stroke-width="0.5" stroke-linecap="round"/>
-    </g>
-  </g>
   </g></svg>
