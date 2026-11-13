@@ -973,12 +973,12 @@
   },
   {
     "name": "latest-news-split-2026-11-02",
-    "file": "news/latest-news-split-2026-11-02-553203420bb3.svg",
-    "poster": "news/latest-news-split-2026-11-02-553203420bb3-still.svg",
-    "width": 92,
+    "file": "news/latest-news-split-2026-11-02-f3e5381ac927.svg",
+    "poster": "news/latest-news-split-2026-11-02-f3e5381ac927-still.svg",
+    "width": 96,
     "height": 20,
     "duration": 8000,
-    "bytes": 1537
+    "bytes": 1561
   },
   {
     "name": "harness-terminal",

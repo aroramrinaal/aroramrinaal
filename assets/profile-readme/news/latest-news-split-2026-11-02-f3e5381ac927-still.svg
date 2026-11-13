@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="20" viewBox="0 0 96 20">
+    <defs>
+    <clipPath id="ls-amber"><path d="M5 0.5 H49 V19.5 H5 Q0.5 19.5 0.5 15 V5 Q0.5 0.5 5 0.5 Z"/></clipPath>
+    <linearGradient id="ls-gloss" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.45"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+    <rect x="0.5" y="0.5" width="95" height="19" rx="4.5" fill="#FFFFFF" stroke="#B45309" stroke-width="1"/>
+    <path d="M5 0.5 H49 V19.5 H5 Q0.5 19.5 0.5 15 V5 Q0.5 0.5 5 0.5 Z" fill="#B45309"/>
+    <g clip-path="url(#ls-amber)"><g transform="skewX(-18)"><rect class="sheen" x="-20" y="-3" width="13" height="26" fill="url(#ls-gloss)"/></g></g>
+    <text x="24.5" y="14.4" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="0.2" fill="#FFFFFF">latest</text>
+    <text x="72.5" y="14.1" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="0.2" fill="#1F2328">Nov 2</text>
+</svg>
