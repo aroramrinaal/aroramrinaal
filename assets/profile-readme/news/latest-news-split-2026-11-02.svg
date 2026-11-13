@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="92" height="20" viewBox="0 0 92 20">
-    <rect x="0.5" y="0.5" width="91" height="19" rx="4.5" fill="#FFFFFF" stroke="#B45309" stroke-width="1"/>
-    <path d="M5 0.5 H45 V19.5 H5 Q0.5 19.5 0.5 15 V5 Q0.5 0.5 5 0.5 Z" fill="#B45309"/>
-    <text x="7" y="14.1" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="0.2" fill="#1B0C01">latest</text>
-    <text x="68.5" y="14.1" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="0.2" fill="#1F2328">Nov 2</text></svg>

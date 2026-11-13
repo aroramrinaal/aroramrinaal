@@ -415,93 +415,93 @@
   },
   {
     "name": "research-notice-small-head",
-    "file": "research-notice/research-notice-small-head-e0a3557e042f.webp",
-    "poster": "research-notice/research-notice-small-head-e0a3557e042f.png",
+    "file": "research-notice/research-notice-small-head-96d41f070e6f.webp",
+    "poster": "research-notice/research-notice-small-head-96d41f070e6f.png",
     "width": 254,
     "height": 66,
     "duration": 5600,
-    "bytes": 41858
+    "bytes": 42218
   },
   {
     "name": "research-notice-small-list",
-    "file": "research-notice/research-notice-small-list-b28af172c2e1.png",
-    "poster": "research-notice/research-notice-small-list-b28af172c2e1.png",
+    "file": "research-notice/research-notice-small-list-76f6a4c0b1f6.png",
+    "poster": "research-notice/research-notice-small-list-76f6a4c0b1f6.png",
     "width": 254,
     "height": 60,
     "duration": 0,
-    "bytes": 38789
+    "bytes": 41968
   },
   {
     "name": "research-notice-small-more",
-    "file": "research-notice/research-notice-small-more-9d898f99da22.webp",
-    "poster": "research-notice/research-notice-small-more-9d898f99da22.png",
+    "file": "research-notice/research-notice-small-more-8305762d7558.webp",
+    "poster": "research-notice/research-notice-small-more-8305762d7558.png",
     "width": 254,
     "height": 127,
     "duration": 5600,
-    "bytes": 94858
+    "bytes": 94472
   },
   {
     "name": "research-notice-small-cv",
-    "file": "research-notice/research-notice-small-cv-080aedf52597.png",
-    "poster": "research-notice/research-notice-small-cv-080aedf52597.png",
+    "file": "research-notice/research-notice-small-cv-c6ad6b7b7c5d.webp",
+    "poster": "research-notice/research-notice-small-cv-c6ad6b7b7c5d.png",
     "width": 254,
     "height": 40,
-    "duration": 0,
-    "bytes": 12942
+    "duration": 5600,
+    "bytes": 71954
   },
   {
     "name": "research-notice-small-email",
-    "file": "research-notice/research-notice-small-email-fb9ea2181922.png",
-    "poster": "research-notice/research-notice-small-email-fb9ea2181922.png",
+    "file": "research-notice/research-notice-small-email-d4112bb79c09.webp",
+    "poster": "research-notice/research-notice-small-email-d4112bb79c09.png",
     "width": 254,
     "height": 49,
-    "duration": 0,
-    "bytes": 17305
+    "duration": 5600,
+    "bytes": 70432
   },
   {
     "name": "research-notice-tiny-head",
-    "file": "research-notice/research-notice-tiny-head-1a40e7c2eebd.webp",
-    "poster": "research-notice/research-notice-tiny-head-1a40e7c2eebd.png",
+    "file": "research-notice/research-notice-tiny-head-0822899c63e7.webp",
+    "poster": "research-notice/research-notice-tiny-head-0822899c63e7.png",
     "width": 236,
     "height": 64,
     "duration": 5600,
-    "bytes": 39070
+    "bytes": 39360
   },
   {
     "name": "research-notice-tiny-list",
-    "file": "research-notice/research-notice-tiny-list-71ae667983ae.png",
-    "poster": "research-notice/research-notice-tiny-list-71ae667983ae.png",
+    "file": "research-notice/research-notice-tiny-list-9a66774db050.png",
+    "poster": "research-notice/research-notice-tiny-list-9a66774db050.png",
     "width": 236,
     "height": 97,
     "duration": 0,
-    "bytes": 47076
+    "bytes": 52010
   },
   {
     "name": "research-notice-tiny-more",
-    "file": "research-notice/research-notice-tiny-more-8f8d4c2917fb.webp",
-    "poster": "research-notice/research-notice-tiny-more-8f8d4c2917fb.png",
+    "file": "research-notice/research-notice-tiny-more-074fc7fe7cf8.webp",
+    "poster": "research-notice/research-notice-tiny-more-074fc7fe7cf8.png",
     "width": 236,
     "height": 124,
     "duration": 5600,
-    "bytes": 92092
+    "bytes": 91806
   },
   {
     "name": "research-notice-tiny-cv",
-    "file": "research-notice/research-notice-tiny-cv-cf848bde6f9e.png",
-    "poster": "research-notice/research-notice-tiny-cv-cf848bde6f9e.png",
+    "file": "research-notice/research-notice-tiny-cv-67f64d0afbab.webp",
+    "poster": "research-notice/research-notice-tiny-cv-67f64d0afbab.png",
     "width": 236,
     "height": 40,
-    "duration": 0,
-    "bytes": 12648
+    "duration": 5600,
+    "bytes": 69816
   },
   {
     "name": "research-notice-tiny-email",
-    "file": "research-notice/research-notice-tiny-email-5b9434fc0daf.png",
-    "poster": "research-notice/research-notice-tiny-email-5b9434fc0daf.png",
+    "file": "research-notice/research-notice-tiny-email-b890336a0b0a.webp",
+    "poster": "research-notice/research-notice-tiny-email-b890336a0b0a.png",
     "width": 236,
     "height": 49,
-    "duration": 0,
-    "bytes": 16729
+    "duration": 5600,
+    "bytes": 68684
   },
   {
     "name": "codex-claude-crew",
@@ -955,12 +955,12 @@
   },
   {
     "name": "latest-news",
-    "file": "news/latest-news-161604f6ada6.png",
-    "poster": "news/latest-news-161604f6ada6.png",
+    "file": "news/latest-news-90a5066baf84.svg",
+    "poster": "news/latest-news-90a5066baf84-still.svg",
     "width": 70,
-    "height": 30,
-    "duration": 0,
-    "bytes": 4376
+    "height": 36,
+    "duration": 8000,
+    "bytes": 2796
   },
   {
     "name": "latest-news-leaf-2026-11-02",
@@ -973,12 +973,12 @@
   },
   {
     "name": "latest-news-split-2026-11-02",
-    "file": "news/latest-news-split-2026-11-02-c751063a03e3.png",
-    "poster": "news/latest-news-split-2026-11-02-c751063a03e3.png",
+    "file": "news/latest-news-split-2026-11-02-553203420bb3.svg",
+    "poster": "news/latest-news-split-2026-11-02-553203420bb3-still.svg",
     "width": 92,
     "height": 20,
-    "duration": 0,
-    "bytes": 4241
+    "duration": 8000,
+    "bytes": 1537
   },
   {
     "name": "harness-terminal",
@@ -1207,33 +1207,33 @@
     "bytes": 2240
   },
   {
-    "name": "last-updated-desktop-2026-11-12",
-    "file": "footer/last-updated-desktop-2026-11-12-be287f01e16d.svg",
-    "poster": "footer/last-updated-desktop-2026-11-12-be287f01e16d-still.svg",
+    "name": "last-updated-desktop-2026-11-14",
+    "file": "footer/last-updated-desktop-2026-11-14-1a41cc54ec0b.svg",
+    "poster": "footer/last-updated-desktop-2026-11-14-1a41cc54ec0b-still.svg",
     "width": 388,
     "height": 130,
     "bytes": 15652
   },
   {
-    "name": "last-updated-tablet-2026-11-12",
-    "file": "footer/last-updated-tablet-2026-11-12-be3c94a0b2bb.svg",
-    "poster": "footer/last-updated-tablet-2026-11-12-be3c94a0b2bb-still.svg",
+    "name": "last-updated-tablet-2026-11-14",
+    "file": "footer/last-updated-tablet-2026-11-14-78b5b19d3a82.svg",
+    "poster": "footer/last-updated-tablet-2026-11-14-78b5b19d3a82-still.svg",
     "width": 420,
     "height": 147,
     "bytes": 16796
   },
   {
-    "name": "last-updated-phone-large-2026-11-12",
-    "file": "footer/last-updated-phone-large-2026-11-12-a782f479437c.svg",
-    "poster": "footer/last-updated-phone-large-2026-11-12-a782f479437c-still.svg",
+    "name": "last-updated-phone-large-2026-11-14",
+    "file": "footer/last-updated-phone-large-2026-11-14-76a275e37e13.svg",
+    "poster": "footer/last-updated-phone-large-2026-11-14-76a275e37e13-still.svg",
     "width": 312,
     "height": 132,
     "bytes": 16819
   },
   {
-    "name": "last-updated-phone-2026-11-12",
-    "file": "footer/last-updated-phone-2026-11-12-636ae2558ce8.svg",
-    "poster": "footer/last-updated-phone-2026-11-12-636ae2558ce8-still.svg",
+    "name": "last-updated-phone-2026-11-14",
+    "file": "footer/last-updated-phone-2026-11-14-803eb0b851ca.svg",
+    "poster": "footer/last-updated-phone-2026-11-14-803eb0b851ca-still.svg",
     "width": 188,
     "height": 92,
     "bytes": 24363
