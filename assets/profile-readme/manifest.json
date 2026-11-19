@@ -504,6 +504,69 @@
     "bytes": 68684
   },
   {
+    "name": "research-figure-xl",
+    "file": "research-figure/research-figure-xl-5b2c727f6c74.svg",
+    "poster": "research-figure/research-figure-xl-5b2c727f6c74-still.svg",
+    "width": 844,
+    "height": 300,
+    "duration": 4950,
+    "bytes": 350029
+  },
+  {
+    "name": "research-figure-l",
+    "file": "research-figure/research-figure-l-048dd4f34b40.svg",
+    "poster": "research-figure/research-figure-l-048dd4f34b40-still.svg",
+    "width": 694,
+    "height": 292,
+    "duration": 4950,
+    "bytes": 349489
+  },
+  {
+    "name": "research-figure-m",
+    "file": "research-figure/research-figure-m-2705f148afa4.svg",
+    "poster": "research-figure/research-figure-m-2705f148afa4-still.svg",
+    "width": 542,
+    "height": 258,
+    "duration": 5430,
+    "bytes": 344675
+  },
+  {
+    "name": "research-figure-s",
+    "file": "research-figure/research-figure-s-d4eb566cedfe.svg",
+    "poster": "research-figure/research-figure-s-d4eb566cedfe-still.svg",
+    "width": 362,
+    "height": 490,
+    "duration": 4770,
+    "bytes": 313118
+  },
+  {
+    "name": "research-figure-narrow",
+    "file": "research-figure/research-figure-narrow-f660e8f0b7f5.svg",
+    "poster": "research-figure/research-figure-narrow-f660e8f0b7f5-still.svg",
+    "width": 298,
+    "height": 266,
+    "duration": 4260,
+    "bytes": 123267
+  },
+  {
+    "name": "research-figure-small",
+    "file": "research-figure/research-figure-small-2fb409c82542.svg",
+    "poster": "research-figure/research-figure-small-2fb409c82542-still.svg",
+    "width": 254,
+    "height": 227,
+    "duration": 4260,
+    "bytes": 123368
+  },
+  {
+    "name": "research-figure-tiny",
+    "file": "research-figure/research-figure-tiny-d34ad37a6a9b.svg",
+    "poster": "research-figure/research-figure-tiny-d34ad37a6a9b-still.svg",
+    "width": 236,
+    "height": 211,
+    "duration": 4260,
+    "bytes": 123469
+  },
+  {
     "name": "codex-claude-crew",
     "file": "projects/codex-claude-crew-a2aaa69297bc.png",
     "poster": "projects/codex-claude-crew-a2aaa69297bc.png",
@@ -1207,33 +1270,33 @@
     "bytes": 2240
   },
   {
-    "name": "last-updated-desktop-2026-11-14",
-    "file": "footer/last-updated-desktop-2026-11-14-1a41cc54ec0b.svg",
-    "poster": "footer/last-updated-desktop-2026-11-14-1a41cc54ec0b-still.svg",
+    "name": "last-updated-desktop-2026-11-19",
+    "file": "footer/last-updated-desktop-2026-11-19-92ca6844fb4c.svg",
+    "poster": "footer/last-updated-desktop-2026-11-19-92ca6844fb4c-still.svg",
     "width": 388,
     "height": 130,
     "bytes": 15652
   },
   {
-    "name": "last-updated-tablet-2026-11-14",
-    "file": "footer/last-updated-tablet-2026-11-14-78b5b19d3a82.svg",
-    "poster": "footer/last-updated-tablet-2026-11-14-78b5b19d3a82-still.svg",
+    "name": "last-updated-tablet-2026-11-19",
+    "file": "footer/last-updated-tablet-2026-11-19-0f18c3278f85.svg",
+    "poster": "footer/last-updated-tablet-2026-11-19-0f18c3278f85-still.svg",
     "width": 420,
     "height": 147,
     "bytes": 16796
   },
   {
-    "name": "last-updated-phone-large-2026-11-14",
-    "file": "footer/last-updated-phone-large-2026-11-14-76a275e37e13.svg",
-    "poster": "footer/last-updated-phone-large-2026-11-14-76a275e37e13-still.svg",
+    "name": "last-updated-phone-large-2026-11-19",
+    "file": "footer/last-updated-phone-large-2026-11-19-bcd34adb6e18.svg",
+    "poster": "footer/last-updated-phone-large-2026-11-19-bcd34adb6e18-still.svg",
     "width": 312,
     "height": 132,
     "bytes": 16819
   },
   {
-    "name": "last-updated-phone-2026-11-14",
-    "file": "footer/last-updated-phone-2026-11-14-803eb0b851ca.svg",
-    "poster": "footer/last-updated-phone-2026-11-14-803eb0b851ca-still.svg",
+    "name": "last-updated-phone-2026-11-19",
+    "file": "footer/last-updated-phone-2026-11-19-fe3ef8d68e56.svg",
+    "poster": "footer/last-updated-phone-2026-11-19-fe3ef8d68e56-still.svg",
     "width": 188,
     "height": 92,
     "bytes": 24363
