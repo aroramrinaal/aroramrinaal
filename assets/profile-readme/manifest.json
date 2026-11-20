@@ -99,6 +99,15 @@
     "bytes": 14647
   },
   {
+    "name": "news-flag-bars-2026-11-20",
+    "file": "news/news-flag-bars-2026-11-20-37a83d808bfc.svg",
+    "poster": "news/news-flag-bars-2026-11-20-37a83d808bfc-still.svg",
+    "width": 51,
+    "height": 28,
+    "duration": 8000,
+    "bytes": 8960
+  },
+  {
     "name": "india-lens",
     "file": "biography/india-lens-419ebefa85c9.png",
     "poster": "biography/india-lens-419ebefa85c9.png",
@@ -1035,22 +1044,22 @@
     "bytes": 2796
   },
   {
-    "name": "latest-news-leaf-2026-11-02",
-    "file": "news/latest-news-leaf-2026-11-02-b8d044eeab86.svg",
-    "poster": "news/latest-news-leaf-2026-11-02-b8d044eeab86-still.svg",
+    "name": "latest-news-leaf-2026-11-20",
+    "file": "news/latest-news-leaf-2026-11-20-bed961f167a6.svg",
+    "poster": "news/latest-news-leaf-2026-11-20-bed961f167a6-still.svg",
     "width": 28,
     "height": 30,
     "duration": 8000,
-    "bytes": 51108
+    "bytes": 51111
   },
   {
-    "name": "latest-news-split-2026-11-02",
-    "file": "news/latest-news-split-2026-11-02-f3e5381ac927.svg",
-    "poster": "news/latest-news-split-2026-11-02-f3e5381ac927-still.svg",
-    "width": 96,
+    "name": "latest-news-split-2026-11-20",
+    "file": "news/latest-news-split-2026-11-20-323499333c7b.svg",
+    "poster": "news/latest-news-split-2026-11-20-323499333c7b-still.svg",
+    "width": 102,
     "height": 20,
     "duration": 8000,
-    "bytes": 1561
+    "bytes": 1565
   },
   {
     "name": "harness-terminal",
@@ -1142,6 +1151,15 @@
     "height": 44,
     "duration": 0,
     "bytes": 6537
+  },
+  {
+    "name": "news-date-2026-11-20",
+    "file": "news/news-date-2026-11-20-d63776e3457e.png",
+    "poster": "news/news-date-2026-11-20-d63776e3457e.png",
+    "width": 81,
+    "height": 22,
+    "duration": 0,
+    "bytes": 2733
   },
   {
     "name": "news-date-2026-11-02",
@@ -1279,33 +1297,33 @@
     "bytes": 2240
   },
   {
-    "name": "last-updated-desktop-2026-11-19",
-    "file": "footer/last-updated-desktop-2026-11-19-92ca6844fb4c.svg",
-    "poster": "footer/last-updated-desktop-2026-11-19-92ca6844fb4c-still.svg",
+    "name": "last-updated-desktop-2026-11-20",
+    "file": "footer/last-updated-desktop-2026-11-20-410ae021424a.svg",
+    "poster": "footer/last-updated-desktop-2026-11-20-410ae021424a-still.svg",
     "width": 388,
     "height": 130,
     "bytes": 15652
   },
   {
-    "name": "last-updated-tablet-2026-11-19",
-    "file": "footer/last-updated-tablet-2026-11-19-0f18c3278f85.svg",
-    "poster": "footer/last-updated-tablet-2026-11-19-0f18c3278f85-still.svg",
+    "name": "last-updated-tablet-2026-11-20",
+    "file": "footer/last-updated-tablet-2026-11-20-f1f0d66ff5f6.svg",
+    "poster": "footer/last-updated-tablet-2026-11-20-f1f0d66ff5f6-still.svg",
     "width": 420,
     "height": 147,
     "bytes": 16796
   },
   {
-    "name": "last-updated-phone-large-2026-11-19",
-    "file": "footer/last-updated-phone-large-2026-11-19-bcd34adb6e18.svg",
-    "poster": "footer/last-updated-phone-large-2026-11-19-bcd34adb6e18-still.svg",
+    "name": "last-updated-phone-large-2026-11-20",
+    "file": "footer/last-updated-phone-large-2026-11-20-381ced9b2418.svg",
+    "poster": "footer/last-updated-phone-large-2026-11-20-381ced9b2418-still.svg",
     "width": 312,
     "height": 132,
     "bytes": 16819
   },
   {
-    "name": "last-updated-phone-2026-11-19",
-    "file": "footer/last-updated-phone-2026-11-19-fe3ef8d68e56.svg",
-    "poster": "footer/last-updated-phone-2026-11-19-fe3ef8d68e56-still.svg",
+    "name": "last-updated-phone-2026-11-20",
+    "file": "footer/last-updated-phone-2026-11-20-24f84b837013.svg",
+    "poster": "footer/last-updated-phone-2026-11-20-24f84b837013-still.svg",
     "width": 188,
     "height": 92,
     "bytes": 24363
